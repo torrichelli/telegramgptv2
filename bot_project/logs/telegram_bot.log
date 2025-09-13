@@ -1,0 +1,1821 @@
+2025-09-13 11:56:49 UTC | INFO     | __main__ | 🚀 Starting Telegram Bot...
+2025-09-13 11:56:49 UTC | INFO     | __main__ | 📅 Start time: 2025-09-13 14:56:49.049302+03:00
+2025-09-13 11:56:49 UTC | INFO     | __main__ | 🤖 Bot created with token: 83143487...
+2025-09-13 11:56:49 UTC | INFO     | __main__ | 📡 Dispatcher configured with routers
+2025-09-13 11:56:49 UTC | INFO     | db.db | Database initialized successfully
+2025-09-13 11:56:49 UTC | INFO     | db.db | Database initialized: data/bot.sqlite3
+2025-09-13 11:56:49 UTC | INFO     | __main__ | 💾 Database initialized successfully
+2025-09-13 11:56:49 UTC | INFO     | reports.report_manager | ReportManager initialized with reports directory: reports_output
+2025-09-13 11:56:49 UTC | INFO     | utils.adapter | ✅ All adapters initialized successfully
+2025-09-13 11:56:49 UTC | INFO     | handlers.commands | ✅ [Commands] Initialized 2 administrators: [272015356, 430284648]
+2025-09-13 11:56:49 UTC | INFO     | reports.report_manager | ReportManager initialized with reports directory: reports_output
+2025-09-13 11:56:49 UTC | INFO     | reports.scheduler | 🕒 [Scheduler] Initialized with default config
+2025-09-13 11:56:49 UTC | INFO     | reports.report_manager | ReportManager initialized with reports directory: reports_output
+2025-09-13 11:56:49 UTC | INFO     | reports.scheduler | 🕒 [Scheduler] Initialized with default config
+2025-09-13 11:56:49 UTC | INFO     | handlers.commands | 🕒 [Commands] ReportScheduler initialized successfully
+2025-09-13 11:56:49 UTC | INFO     | reports.scheduler | 🔧 [Scheduler] Configuration updated: time=09:00:00, chats=0, enabled=False
+2025-09-13 11:56:49 UTC | INFO     | __main__ | ⏸️ Scheduler configured but not started (disabled or no target chats)
+2025-09-13 11:56:49 UTC | INFO     | __main__ | 🚀 All components initialized successfully
+2025-09-13 11:56:49 UTC | INFO     | __main__ | 🤖 Bot started: @statistickzbot (Statistic_bot)
+2025-09-13 11:56:49 UTC | INFO     | __main__ | 🔄 Starting bot in polling mode...
+2025-09-13 11:59:09 UTC | WARNING  | aiogram.dispatcher | Received SIGTERM signal
+2025-09-13 11:59:09 UTC | INFO     | __main__ | 🛑 Starting graceful shutdown...
+2025-09-13 11:59:09 UTC | INFO     | __main__ | ⏰ Scheduler stopped
+2025-09-13 11:59:09 UTC | INFO     | __main__ | 🤖 Bot session closed
+2025-09-13 11:59:09 UTC | INFO     | __main__ | ✅ Graceful shutdown completed
+2025-09-13 11:59:15 UTC | INFO     | __main__ | 🚀 Starting Telegram Bot...
+2025-09-13 11:59:15 UTC | INFO     | __main__ | 📅 Start time: 2025-09-13 14:59:15.064352+03:00
+2025-09-13 11:59:15 UTC | INFO     | __main__ | 🤖 Bot created with token: 83143487...
+2025-09-13 11:59:15 UTC | INFO     | __main__ | 📡 Dispatcher configured with routers
+2025-09-13 11:59:15 UTC | INFO     | db.db | Database initialized successfully
+2025-09-13 11:59:15 UTC | INFO     | db.db | Database initialized: data/bot.sqlite3
+2025-09-13 11:59:15 UTC | INFO     | __main__ | 💾 Database initialized successfully
+2025-09-13 11:59:15 UTC | INFO     | reports.report_manager | ReportManager initialized with reports directory: reports_output
+2025-09-13 11:59:15 UTC | INFO     | utils.adapter | ✅ All adapters initialized successfully
+2025-09-13 11:59:15 UTC | INFO     | handlers.commands | ✅ [Commands] Initialized 2 administrators: [272015356, 430284648]
+2025-09-13 11:59:15 UTC | INFO     | reports.report_manager | ReportManager initialized with reports directory: reports_output
+2025-09-13 11:59:15 UTC | INFO     | reports.scheduler | 🕒 [Scheduler] Initialized with default config
+2025-09-13 11:59:15 UTC | INFO     | handlers.commands | 🕒 [Commands] ReportScheduler initialized successfully
+2025-09-13 11:59:15 UTC | INFO     | reports.scheduler | 🔧 [Scheduler] Configuration updated: time=09:00:00, chats=0, enabled=False
+2025-09-13 11:59:15 UTC | INFO     | __main__ | ⏸️ Scheduler configured but not started (disabled or no target chats)
+2025-09-13 11:59:15 UTC | INFO     | __main__ | 🚀 All components initialized successfully
+2025-09-13 11:59:15 UTC | INFO     | __main__ | 🤖 Bot started: @statistickzbot (Statistic_bot)
+2025-09-13 11:59:15 UTC | INFO     | __main__ | 🔄 Starting bot in polling mode...
+2025-09-13 12:08:08 UTC | WARNING  | aiogram.dispatcher | Received SIGTERM signal
+2025-09-13 12:08:09 UTC | INFO     | __main__ | 🛑 Starting graceful shutdown...
+2025-09-13 12:08:09 UTC | INFO     | __main__ | ⏰ Scheduler stopped
+2025-09-13 12:08:09 UTC | INFO     | __main__ | 🤖 Bot session closed
+2025-09-13 12:08:09 UTC | INFO     | __main__ | ✅ Graceful shutdown completed
+2025-09-13 12:08:12 UTC | INFO     | __main__ | 🚀 Starting Telegram Bot...
+2025-09-13 12:08:12 UTC | INFO     | __main__ | 📅 Start time: 2025-09-13 15:08:12.903174+03:00
+2025-09-13 12:08:12 UTC | INFO     | __main__ | 🤖 Bot created with token: 83143487...
+2025-09-13 12:08:12 UTC | INFO     | __main__ | 📡 Dispatcher configured with routers
+2025-09-13 12:08:12 UTC | INFO     | db.db | Database initialized successfully
+2025-09-13 12:08:12 UTC | INFO     | db.db | Database initialized: data/bot.sqlite3
+2025-09-13 12:08:12 UTC | INFO     | __main__ | 💾 Database initialized successfully
+2025-09-13 12:08:12 UTC | INFO     | reports.report_manager | ReportManager initialized with reports directory: reports_output
+2025-09-13 12:08:12 UTC | INFO     | utils.adapter | ✅ All adapters initialized successfully
+2025-09-13 12:08:12 UTC | INFO     | handlers.commands | ✅ [Commands] Initialized 2 administrators: [272015356, 430284648]
+2025-09-13 12:08:12 UTC | INFO     | reports.report_manager | ReportManager initialized with reports directory: reports_output
+2025-09-13 12:08:12 UTC | INFO     | reports.unified_excel_template | Creating new subscribers_report.xlsx with base sheets
+2025-09-13 12:08:12 UTC | INFO     | reports.unified_excel_template | ✅ Created subscribers_report.xlsx with История and Статистика sheets
+2025-09-13 12:08:12 UTC | INFO     | reports.unified_excel_template | UnifiedExcelTemplate initialized: reports_output/subscribers_report.xlsx
+2025-09-13 12:08:12 UTC | INFO     | reports.unified_report_manager | UnifiedReportManager initialized with reports directory: reports_output
+2025-09-13 12:08:12 UTC | INFO     | reports.scheduler | 🕒 [Scheduler] Initialized with default config
+2025-09-13 12:08:12 UTC | INFO     | handlers.commands | 🕒 [Commands] ReportScheduler initialized successfully
+2025-09-13 12:08:12 UTC | INFO     | reports.scheduler | 🔧 [Scheduler] Configuration updated: time=09:00:00, chats=0, enabled=False
+2025-09-13 12:08:12 UTC | INFO     | __main__ | ⏸️ Scheduler configured but not started (disabled or no target chats)
+2025-09-13 12:08:12 UTC | INFO     | __main__ | 🚀 All components initialized successfully
+2025-09-13 12:08:13 UTC | INFO     | __main__ | 🤖 Bot started: @statistickzbot (Statistic_bot)
+2025-09-13 12:08:13 UTC | INFO     | __main__ | 🔄 Starting bot in polling mode...
+2025-09-13 12:10:43 UTC | WARNING  | aiogram.dispatcher | Received SIGTERM signal
+2025-09-13 12:10:43 UTC | INFO     | __main__ | 🛑 Starting graceful shutdown...
+2025-09-13 12:10:43 UTC | INFO     | __main__ | ⏰ Scheduler stopped
+2025-09-13 12:10:43 UTC | INFO     | __main__ | 🤖 Bot session closed
+2025-09-13 12:10:43 UTC | INFO     | __main__ | ✅ Graceful shutdown completed
+2025-09-13 12:10:47 UTC | INFO     | __main__ | 🚀 Starting Telegram Bot...
+2025-09-13 12:10:47 UTC | INFO     | __main__ | 📅 Start time: 2025-09-13 15:10:47.167320+03:00
+2025-09-13 12:10:47 UTC | INFO     | __main__ | 🤖 Bot created with token: 83143487...
+2025-09-13 12:10:47 UTC | INFO     | __main__ | 📡 Dispatcher configured with routers
+2025-09-13 12:10:47 UTC | INFO     | db.db | Database initialized successfully
+2025-09-13 12:10:47 UTC | INFO     | db.db | Database initialized: data/bot.sqlite3
+2025-09-13 12:10:47 UTC | INFO     | __main__ | 💾 Database initialized successfully
+2025-09-13 12:10:47 UTC | INFO     | reports.report_manager | ReportManager initialized with reports directory: reports_output
+2025-09-13 12:10:47 UTC | INFO     | utils.adapter | ✅ All adapters initialized successfully
+2025-09-13 12:10:47 UTC | INFO     | handlers.commands | ✅ [Commands] Initialized 2 administrators: [272015356, 430284648]
+2025-09-13 12:10:47 UTC | INFO     | reports.report_manager | ReportManager initialized with reports directory: reports_output
+2025-09-13 12:10:47 UTC | INFO     | reports.unified_excel_template | UnifiedExcelTemplate initialized: reports_output/subscribers_report.xlsx
+2025-09-13 12:10:47 UTC | INFO     | reports.unified_report_manager | UnifiedReportManager initialized with reports directory: reports_output
+2025-09-13 12:10:47 UTC | INFO     | reports.scheduler | 🕒 [Scheduler] Initialized with default config
+2025-09-13 12:10:47 UTC | INFO     | handlers.commands | 🕒 [Commands] ReportScheduler initialized successfully
+2025-09-13 12:10:47 UTC | INFO     | reports.scheduler | 🔧 [Scheduler] Configuration updated: time=09:00:00, chats=0, enabled=False
+2025-09-13 12:10:47 UTC | INFO     | __main__ | ⏸️ Scheduler configured but not started (disabled or no target chats)
+2025-09-13 12:10:47 UTC | INFO     | __main__ | 🚀 All components initialized successfully
+2025-09-13 12:10:47 UTC | INFO     | __main__ | 🤖 Bot started: @statistickzbot (Statistic_bot)
+2025-09-13 12:10:47 UTC | INFO     | __main__ | 🔄 Starting bot in polling mode...
+2025-09-13 12:12:23 UTC | WARNING  | aiogram.dispatcher | Received SIGTERM signal
+2025-09-13 12:12:24 UTC | INFO     | __main__ | 🛑 Starting graceful shutdown...
+2025-09-13 12:12:24 UTC | INFO     | __main__ | ⏰ Scheduler stopped
+2025-09-13 12:12:24 UTC | INFO     | __main__ | 🤖 Bot session closed
+2025-09-13 12:12:24 UTC | INFO     | __main__ | ✅ Graceful shutdown completed
+2025-09-13 12:12:28 UTC | INFO     | __main__ | 🚀 Starting Telegram Bot...
+2025-09-13 12:12:28 UTC | INFO     | __main__ | 📅 Start time: 2025-09-13 15:12:28.214091+03:00
+2025-09-13 12:12:28 UTC | INFO     | __main__ | 🤖 Bot created with token: 83143487...
+2025-09-13 12:12:28 UTC | INFO     | __main__ | 📡 Dispatcher configured with routers
+2025-09-13 12:12:28 UTC | INFO     | db.db | Database initialized successfully
+2025-09-13 12:12:28 UTC | INFO     | db.db | Database initialized: data/bot.sqlite3
+2025-09-13 12:12:28 UTC | INFO     | __main__ | 💾 Database initialized successfully
+2025-09-13 12:12:28 UTC | INFO     | reports.report_manager | ReportManager initialized with reports directory: reports_output
+2025-09-13 12:12:28 UTC | INFO     | utils.adapter | ✅ All adapters initialized successfully
+2025-09-13 12:12:28 UTC | INFO     | handlers.commands | ✅ [Commands] Initialized 2 administrators: [272015356, 430284648]
+2025-09-13 12:12:28 UTC | INFO     | reports.report_manager | ReportManager initialized with reports directory: reports_output
+2025-09-13 12:12:28 UTC | INFO     | reports.unified_excel_template | UnifiedExcelTemplate initialized: reports_output/subscribers_report.xlsx
+2025-09-13 12:12:28 UTC | INFO     | reports.unified_report_manager | UnifiedReportManager initialized with reports directory: reports_output
+2025-09-13 12:12:28 UTC | INFO     | reports.scheduler | 🕒 [Scheduler] Initialized with default config
+2025-09-13 12:12:28 UTC | INFO     | handlers.commands | 🕒 [Commands] ReportScheduler initialized successfully
+2025-09-13 12:12:28 UTC | INFO     | reports.scheduler | 🔧 [Scheduler] Configuration updated: time=09:00:00, chats=0, enabled=False
+2025-09-13 12:12:28 UTC | INFO     | __main__ | ⏸️ Scheduler configured but not started (disabled or no target chats)
+2025-09-13 12:12:28 UTC | INFO     | __main__ | 🚀 All components initialized successfully
+2025-09-13 12:12:28 UTC | INFO     | __main__ | 🤖 Bot started: @statistickzbot (Statistic_bot)
+2025-09-13 12:12:28 UTC | INFO     | __main__ | 🔄 Starting bot in polling mode...
+2025-09-13 12:21:51 UTC | ERROR    | aiogram.dispatcher | Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-09-13 12:21:51 UTC | WARNING  | aiogram.dispatcher | Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8314348716)
+2025-09-13 12:21:56 UTC | ERROR    | aiogram.dispatcher | Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-09-13 12:21:56 UTC | WARNING  | aiogram.dispatcher | Sleep for 1.263895 seconds and try again... (tryings = 1, bot id = 8314348716)
+2025-09-13 12:22:02 UTC | ERROR    | aiogram.dispatcher | Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-09-13 12:22:02 UTC | WARNING  | aiogram.dispatcher | Sleep for 1.758914 seconds and try again... (tryings = 2, bot id = 8314348716)
+2025-09-13 12:22:08 UTC | ERROR    | aiogram.dispatcher | Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-09-13 12:22:08 UTC | WARNING  | aiogram.dispatcher | Sleep for 2.316333 seconds and try again... (tryings = 3, bot id = 8314348716)
+2025-09-13 12:22:16 UTC | INFO     | handlers.ui | UI Start command from user 272015356 (@aibekbereketuly)
+2025-09-13 12:22:16 UTC | ERROR    | aiogram.dispatcher | Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-09-13 12:22:16 UTC | WARNING  | aiogram.dispatcher | Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8314348716)
+2025-09-13 12:22:20 UTC | INFO     | reports | Report started: full_export for all_data
+2025-09-13 12:22:20 UTC | ERROR    | reports | Report failed: full_export for all_data, error=At least one sheet must be visible
+2025-09-13 12:22:20 UTC | ERROR    | reports.report_manager | Failed to export full database: At least one sheet must be visible
+2025-09-13 12:22:20 UTC | ERROR    | utils.adapter | Failed to export excel full: At least one sheet must be visible
+Traceback (most recent call last):
+  File "/home/runner/workspace/bot_project/utils/adapter.py", line 361, in export_excel
+    return self.report_manager.export_full_database()
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/bot_project/reports/report_manager.py", line 321, in export_full_database
+    wb.save(file_path)
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/openpyxl/workbook/workbook.py", line 386, in save
+    save_workbook(self, filename)
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/openpyxl/writer/excel.py", line 294, in save_workbook
+    writer.save()
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/openpyxl/writer/excel.py", line 275, in save
+    self.write_data()
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/openpyxl/writer/excel.py", line 89, in write_data
+    archive.writestr(ARC_WORKBOOK, writer.write())
+                                   ^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/openpyxl/workbook/_writer.py", line 150, in write
+    self.write_views()
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/openpyxl/workbook/_writer.py", line 137, in write_views
+    active = get_active_sheet(self.wb)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/openpyxl/workbook/_writer.py", line 35, in get_active_sheet
+    raise IndexError("At least one sheet must be visible")
+IndexError: At least one sheet must be visible
+2025-09-13 12:22:20 UTC | ERROR    | handlers.ui | Error exporting excel: At least one sheet must be visible
+Traceback (most recent call last):
+  File "/home/runner/workspace/bot_project/handlers/ui.py", line 531, in handle_export_excel
+    file_path = export_excel("full")
+                ^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/bot_project/utils/adapter.py", line 537, in export_excel
+    return get_report_adapter().export_excel(report_type)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/bot_project/utils/adapter.py", line 361, in export_excel
+    return self.report_manager.export_full_database()
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/bot_project/reports/report_manager.py", line 321, in export_full_database
+    wb.save(file_path)
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/openpyxl/workbook/workbook.py", line 386, in save
+    save_workbook(self, filename)
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/openpyxl/writer/excel.py", line 294, in save_workbook
+    writer.save()
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/openpyxl/writer/excel.py", line 275, in save
+    self.write_data()
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/openpyxl/writer/excel.py", line 89, in write_data
+    archive.writestr(ARC_WORKBOOK, writer.write())
+                                   ^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/openpyxl/workbook/_writer.py", line 150, in write
+    self.write_views()
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/openpyxl/workbook/_writer.py", line 137, in write_views
+    active = get_active_sheet(self.wb)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/openpyxl/workbook/_writer.py", line 35, in get_active_sheet
+    raise IndexError("At least one sheet must be visible")
+IndexError: At least one sheet must be visible
+2025-09-13 12:22:24 UTC | ERROR    | aiogram.dispatcher | Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-09-13 12:22:24 UTC | WARNING  | aiogram.dispatcher | Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8314348716)
+2025-09-13 12:22:29 UTC | ERROR    | aiogram.dispatcher | Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-09-13 12:22:29 UTC | WARNING  | aiogram.dispatcher | Sleep for 1.302928 seconds and try again... (tryings = 1, bot id = 8314348716)
+2025-09-13 12:22:35 UTC | ERROR    | aiogram.dispatcher | Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-09-13 12:22:35 UTC | WARNING  | aiogram.dispatcher | Sleep for 1.649538 seconds and try again... (tryings = 2, bot id = 8314348716)
+2025-09-13 12:22:40 UTC | ERROR    | aiogram.dispatcher | Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-09-13 12:22:40 UTC | WARNING  | aiogram.dispatcher | Sleep for 2.042640 seconds and try again... (tryings = 3, bot id = 8314348716)
+2025-09-13 12:22:47 UTC | ERROR    | aiogram.dispatcher | Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-09-13 12:22:47 UTC | WARNING  | aiogram.dispatcher | Sleep for 2.429911 seconds and try again... (tryings = 4, bot id = 8314348716)
+2025-09-13 12:22:54 UTC | ERROR    | aiogram.dispatcher | Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-09-13 12:22:54 UTC | WARNING  | aiogram.dispatcher | Sleep for 3.175079 seconds and try again... (tryings = 5, bot id = 8314348716)
+2025-09-13 12:23:03 UTC | ERROR    | aiogram.dispatcher | Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-09-13 12:23:03 UTC | WARNING  | aiogram.dispatcher | Sleep for 4.031020 seconds and try again... (tryings = 6, bot id = 8314348716)
+2025-09-13 12:23:10 UTC | ERROR    | aiogram.dispatcher | Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-09-13 12:23:10 UTC | WARNING  | aiogram.dispatcher | Sleep for 5.056445 seconds and try again... (tryings = 7, bot id = 8314348716)
+2025-09-13 12:23:19 UTC | ERROR    | aiogram.dispatcher | Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-09-13 12:23:19 UTC | WARNING  | aiogram.dispatcher | Sleep for 4.794182 seconds and try again... (tryings = 8, bot id = 8314348716)
+2025-09-13 12:23:29 UTC | ERROR    | aiogram.dispatcher | Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-09-13 12:23:29 UTC | WARNING  | aiogram.dispatcher | Sleep for 4.881540 seconds and try again... (tryings = 9, bot id = 8314348716)
+2025-09-13 12:23:40 UTC | ERROR    | aiogram.dispatcher | Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-09-13 12:23:40 UTC | WARNING  | aiogram.dispatcher | Sleep for 4.861967 seconds and try again... (tryings = 10, bot id = 8314348716)
+2025-09-13 12:23:50 UTC | ERROR    | aiogram.dispatcher | Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-09-13 12:23:50 UTC | WARNING  | aiogram.dispatcher | Sleep for 5.163106 seconds and try again... (tryings = 11, bot id = 8314348716)
+2025-09-13 12:24:00 UTC | ERROR    | aiogram.dispatcher | Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-09-13 12:24:00 UTC | WARNING  | aiogram.dispatcher | Sleep for 5.081527 seconds and try again... (tryings = 12, bot id = 8314348716)
+2025-09-13 12:24:10 UTC | ERROR    | aiogram.dispatcher | Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-09-13 12:24:10 UTC | WARNING  | aiogram.dispatcher | Sleep for 5.117938 seconds and try again... (tryings = 13, bot id = 8314348716)
+2025-09-13 12:24:20 UTC | ERROR    | aiogram.dispatcher | Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-09-13 12:24:20 UTC | WARNING  | aiogram.dispatcher | Sleep for 5.001805 seconds and try again... (tryings = 14, bot id = 8314348716)
+2025-09-13 12:24:31 UTC | ERROR    | aiogram.dispatcher | Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-09-13 12:24:31 UTC | WARNING  | aiogram.dispatcher | Sleep for 4.851166 seconds and try again... (tryings = 15, bot id = 8314348716)
+2025-09-13 12:24:41 UTC | ERROR    | aiogram.dispatcher | Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-09-13 12:24:41 UTC | WARNING  | aiogram.dispatcher | Sleep for 4.935322 seconds and try again... (tryings = 16, bot id = 8314348716)
+2025-09-13 12:24:51 UTC | ERROR    | aiogram.dispatcher | Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-09-13 12:24:51 UTC | WARNING  | aiogram.dispatcher | Sleep for 5.009493 seconds and try again... (tryings = 17, bot id = 8314348716)
+2025-09-13 12:25:02 UTC | ERROR    | aiogram.dispatcher | Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-09-13 12:25:02 UTC | WARNING  | aiogram.dispatcher | Sleep for 4.962417 seconds and try again... (tryings = 18, bot id = 8314348716)
+2025-09-13 12:25:12 UTC | ERROR    | aiogram.dispatcher | Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-09-13 12:25:12 UTC | WARNING  | aiogram.dispatcher | Sleep for 4.987810 seconds and try again... (tryings = 19, bot id = 8314348716)
+2025-09-13 12:25:22 UTC | ERROR    | aiogram.dispatcher | Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-09-13 12:25:22 UTC | WARNING  | aiogram.dispatcher | Sleep for 5.146017 seconds and try again... (tryings = 20, bot id = 8314348716)
+2025-09-13 12:25:32 UTC | ERROR    | aiogram.dispatcher | Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-09-13 12:25:32 UTC | WARNING  | aiogram.dispatcher | Sleep for 5.156127 seconds and try again... (tryings = 21, bot id = 8314348716)
+2025-09-13 12:25:43 UTC | ERROR    | aiogram.dispatcher | Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-09-13 12:25:43 UTC | WARNING  | aiogram.dispatcher | Sleep for 5.121199 seconds and try again... (tryings = 22, bot id = 8314348716)
+2025-09-13 12:25:53 UTC | ERROR    | aiogram.dispatcher | Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-09-13 12:25:53 UTC | WARNING  | aiogram.dispatcher | Sleep for 4.915815 seconds and try again... (tryings = 23, bot id = 8314348716)
+2025-09-13 12:26:03 UTC | ERROR    | aiogram.dispatcher | Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-09-13 12:26:03 UTC | WARNING  | aiogram.dispatcher | Sleep for 4.884309 seconds and try again... (tryings = 24, bot id = 8314348716)
+2025-09-13 12:26:13 UTC | ERROR    | aiogram.dispatcher | Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-09-13 12:26:13 UTC | WARNING  | aiogram.dispatcher | Sleep for 4.937736 seconds and try again... (tryings = 25, bot id = 8314348716)
+2025-09-13 12:26:24 UTC | ERROR    | aiogram.dispatcher | Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-09-13 12:26:24 UTC | WARNING  | aiogram.dispatcher | Sleep for 5.016637 seconds and try again... (tryings = 26, bot id = 8314348716)
+2025-09-13 12:26:34 UTC | ERROR    | aiogram.dispatcher | Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-09-13 12:26:34 UTC | WARNING  | aiogram.dispatcher | Sleep for 5.017756 seconds and try again... (tryings = 27, bot id = 8314348716)
+2025-09-13 12:26:44 UTC | ERROR    | aiogram.dispatcher | Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-09-13 12:26:44 UTC | WARNING  | aiogram.dispatcher | Sleep for 4.979967 seconds and try again... (tryings = 28, bot id = 8314348716)
+2025-09-13 12:26:55 UTC | ERROR    | aiogram.dispatcher | Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-09-13 12:26:55 UTC | WARNING  | aiogram.dispatcher | Sleep for 5.112079 seconds and try again... (tryings = 29, bot id = 8314348716)
+2025-09-13 12:27:05 UTC | ERROR    | aiogram.dispatcher | Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-09-13 12:27:05 UTC | WARNING  | aiogram.dispatcher | Sleep for 5.146241 seconds and try again... (tryings = 30, bot id = 8314348716)
+2025-09-13 12:27:16 UTC | ERROR    | aiogram.dispatcher | Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-09-13 12:27:16 UTC | WARNING  | aiogram.dispatcher | Sleep for 5.263876 seconds and try again... (tryings = 31, bot id = 8314348716)
+2025-09-13 12:27:26 UTC | ERROR    | aiogram.dispatcher | Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-09-13 12:27:26 UTC | WARNING  | aiogram.dispatcher | Sleep for 4.985799 seconds and try again... (tryings = 32, bot id = 8314348716)
+2025-09-13 12:27:36 UTC | ERROR    | aiogram.dispatcher | Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-09-13 12:27:36 UTC | WARNING  | aiogram.dispatcher | Sleep for 4.900978 seconds and try again... (tryings = 33, bot id = 8314348716)
+2025-09-13 12:27:46 UTC | ERROR    | aiogram.dispatcher | Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-09-13 12:27:46 UTC | WARNING  | aiogram.dispatcher | Sleep for 5.041344 seconds and try again... (tryings = 34, bot id = 8314348716)
+2025-09-13 12:27:56 UTC | ERROR    | aiogram.dispatcher | Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-09-13 12:27:56 UTC | WARNING  | aiogram.dispatcher | Sleep for 5.187842 seconds and try again... (tryings = 35, bot id = 8314348716)
+2025-09-13 12:28:07 UTC | ERROR    | aiogram.dispatcher | Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-09-13 12:28:07 UTC | WARNING  | aiogram.dispatcher | Sleep for 4.935710 seconds and try again... (tryings = 36, bot id = 8314348716)
+2025-09-13 12:28:17 UTC | ERROR    | aiogram.dispatcher | Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-09-13 12:28:17 UTC | WARNING  | aiogram.dispatcher | Sleep for 4.936240 seconds and try again... (tryings = 37, bot id = 8314348716)
+2025-09-13 12:28:27 UTC | ERROR    | aiogram.dispatcher | Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-09-13 12:28:27 UTC | WARNING  | aiogram.dispatcher | Sleep for 4.933981 seconds and try again... (tryings = 38, bot id = 8314348716)
+2025-09-13 12:28:37 UTC | ERROR    | aiogram.dispatcher | Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-09-13 12:28:37 UTC | WARNING  | aiogram.dispatcher | Sleep for 4.992173 seconds and try again... (tryings = 39, bot id = 8314348716)
+2025-09-13 12:28:47 UTC | ERROR    | aiogram.dispatcher | Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-09-13 12:28:47 UTC | WARNING  | aiogram.dispatcher | Sleep for 4.936639 seconds and try again... (tryings = 40, bot id = 8314348716)
+2025-09-13 12:28:57 UTC | ERROR    | aiogram.dispatcher | Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-09-13 12:28:57 UTC | WARNING  | aiogram.dispatcher | Sleep for 4.869583 seconds and try again... (tryings = 41, bot id = 8314348716)
+2025-09-13 12:29:08 UTC | ERROR    | aiogram.dispatcher | Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-09-13 12:29:08 UTC | WARNING  | aiogram.dispatcher | Sleep for 4.956692 seconds and try again... (tryings = 42, bot id = 8314348716)
+2025-09-13 12:29:18 UTC | ERROR    | aiogram.dispatcher | Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-09-13 12:29:18 UTC | WARNING  | aiogram.dispatcher | Sleep for 4.999355 seconds and try again... (tryings = 43, bot id = 8314348716)
+2025-09-13 12:29:28 UTC | ERROR    | aiogram.dispatcher | Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-09-13 12:29:28 UTC | WARNING  | aiogram.dispatcher | Sleep for 4.893126 seconds and try again... (tryings = 44, bot id = 8314348716)
+2025-09-13 12:29:38 UTC | ERROR    | aiogram.dispatcher | Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-09-13 12:29:38 UTC | WARNING  | aiogram.dispatcher | Sleep for 5.042789 seconds and try again... (tryings = 45, bot id = 8314348716)
+2025-09-13 12:29:48 UTC | ERROR    | aiogram.dispatcher | Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-09-13 12:29:48 UTC | WARNING  | aiogram.dispatcher | Sleep for 4.947720 seconds and try again... (tryings = 46, bot id = 8314348716)
+2025-09-13 12:29:58 UTC | ERROR    | aiogram.dispatcher | Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-09-13 12:29:58 UTC | WARNING  | aiogram.dispatcher | Sleep for 5.034754 seconds and try again... (tryings = 47, bot id = 8314348716)
+2025-09-13 12:30:09 UTC | ERROR    | aiogram.dispatcher | Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-09-13 12:30:09 UTC | WARNING  | aiogram.dispatcher | Sleep for 5.035972 seconds and try again... (tryings = 48, bot id = 8314348716)
+2025-09-13 12:30:19 UTC | ERROR    | aiogram.dispatcher | Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-09-13 12:30:19 UTC | WARNING  | aiogram.dispatcher | Sleep for 5.081778 seconds and try again... (tryings = 49, bot id = 8314348716)
+2025-09-13 12:30:30 UTC | ERROR    | aiogram.dispatcher | Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-09-13 12:30:30 UTC | WARNING  | aiogram.dispatcher | Sleep for 4.897925 seconds and try again... (tryings = 50, bot id = 8314348716)
+2025-09-13 12:30:40 UTC | ERROR    | aiogram.dispatcher | Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-09-13 12:30:40 UTC | WARNING  | aiogram.dispatcher | Sleep for 4.930759 seconds and try again... (tryings = 51, bot id = 8314348716)
+2025-09-13 12:30:50 UTC | ERROR    | aiogram.dispatcher | Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-09-13 12:30:50 UTC | WARNING  | aiogram.dispatcher | Sleep for 5.136679 seconds and try again... (tryings = 52, bot id = 8314348716)
+2025-09-13 12:31:00 UTC | ERROR    | aiogram.dispatcher | Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-09-13 12:31:00 UTC | WARNING  | aiogram.dispatcher | Sleep for 4.904734 seconds and try again... (tryings = 53, bot id = 8314348716)
+2025-09-13 12:31:10 UTC | ERROR    | aiogram.dispatcher | Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-09-13 12:31:10 UTC | WARNING  | aiogram.dispatcher | Sleep for 4.968762 seconds and try again... (tryings = 54, bot id = 8314348716)
+2025-09-13 12:31:21 UTC | ERROR    | aiogram.dispatcher | Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-09-13 12:31:21 UTC | WARNING  | aiogram.dispatcher | Sleep for 4.899255 seconds and try again... (tryings = 55, bot id = 8314348716)
+2025-09-13 12:31:31 UTC | ERROR    | aiogram.dispatcher | Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-09-13 12:31:31 UTC | WARNING  | aiogram.dispatcher | Sleep for 4.911163 seconds and try again... (tryings = 56, bot id = 8314348716)
+2025-09-13 12:31:41 UTC | ERROR    | aiogram.dispatcher | Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-09-13 12:31:41 UTC | WARNING  | aiogram.dispatcher | Sleep for 5.104472 seconds and try again... (tryings = 57, bot id = 8314348716)
+2025-09-13 12:31:51 UTC | ERROR    | aiogram.dispatcher | Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-09-13 12:31:51 UTC | WARNING  | aiogram.dispatcher | Sleep for 5.054536 seconds and try again... (tryings = 58, bot id = 8314348716)
+2025-09-13 12:32:01 UTC | ERROR    | aiogram.dispatcher | Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-09-13 12:32:01 UTC | WARNING  | aiogram.dispatcher | Sleep for 4.950187 seconds and try again... (tryings = 59, bot id = 8314348716)
+2025-09-13 12:32:11 UTC | ERROR    | aiogram.dispatcher | Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-09-13 12:32:11 UTC | WARNING  | aiogram.dispatcher | Sleep for 4.871283 seconds and try again... (tryings = 60, bot id = 8314348716)
+2025-09-13 12:32:22 UTC | ERROR    | aiogram.dispatcher | Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-09-13 12:32:22 UTC | WARNING  | aiogram.dispatcher | Sleep for 5.023488 seconds and try again... (tryings = 61, bot id = 8314348716)
+2025-09-13 12:32:32 UTC | ERROR    | aiogram.dispatcher | Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-09-13 12:32:32 UTC | WARNING  | aiogram.dispatcher | Sleep for 5.026168 seconds and try again... (tryings = 62, bot id = 8314348716)
+2025-09-13 12:32:42 UTC | ERROR    | aiogram.dispatcher | Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-09-13 12:32:42 UTC | WARNING  | aiogram.dispatcher | Sleep for 4.996522 seconds and try again... (tryings = 63, bot id = 8314348716)
+2025-09-13 12:32:52 UTC | ERROR    | aiogram.dispatcher | Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-09-13 12:32:52 UTC | WARNING  | aiogram.dispatcher | Sleep for 5.069305 seconds and try again... (tryings = 64, bot id = 8314348716)
+2025-09-13 12:33:03 UTC | ERROR    | aiogram.dispatcher | Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-09-13 12:33:03 UTC | WARNING  | aiogram.dispatcher | Sleep for 5.006433 seconds and try again... (tryings = 65, bot id = 8314348716)
+2025-09-13 13:51:12 UTC | INFO     | __main__ | 🚀 Starting Telegram Bot...
+2025-09-13 13:51:12 UTC | INFO     | __main__ | 📅 Start time: 2025-09-13 16:51:12.269889+03:00
+2025-09-13 13:51:12 UTC | INFO     | __main__ | 🤖 Bot created with token: 83143487...
+2025-09-13 13:51:12 UTC | INFO     | __main__ | 📡 Dispatcher configured with routers
+2025-09-13 13:51:12 UTC | INFO     | db.db | Database initialized successfully
+2025-09-13 13:51:12 UTC | INFO     | db.db | Database initialized: data/bot.sqlite3
+2025-09-13 13:51:12 UTC | INFO     | __main__ | 💾 Database initialized successfully
+2025-09-13 13:51:12 UTC | INFO     | reports.report_manager | ReportManager initialized with reports directory: reports_output
+2025-09-13 13:51:12 UTC | INFO     | utils.adapter | ✅ All adapters initialized successfully
+2025-09-13 13:51:12 UTC | INFO     | handlers.commands | ✅ [Commands] Initialized 2 administrators: [272015356, 430284648]
+2025-09-13 13:51:12 UTC | INFO     | reports.report_manager | ReportManager initialized with reports directory: reports_output
+2025-09-13 13:51:12 UTC | INFO     | reports.unified_excel_template | UnifiedExcelTemplate initialized: reports_output/subscribers_report.xlsx
+2025-09-13 13:51:12 UTC | INFO     | reports.unified_report_manager | UnifiedReportManager initialized with reports directory: reports_output
+2025-09-13 13:51:12 UTC | INFO     | reports.scheduler | 🕒 [Scheduler] Initialized with default config
+2025-09-13 13:51:12 UTC | INFO     | handlers.commands | 🕒 [Commands] ReportScheduler initialized successfully
+2025-09-13 13:51:12 UTC | INFO     | reports.scheduler | 🔧 [Scheduler] Configuration updated: time=09:00:00, chats=0, enabled=False
+2025-09-13 13:51:12 UTC | INFO     | __main__ | ⏸️ Scheduler configured but not started (disabled or no target chats)
+2025-09-13 13:51:12 UTC | INFO     | __main__ | 🚀 All components initialized successfully
+2025-09-13 13:51:12 UTC | INFO     | __main__ | 🤖 Bot started: @statistickzbot (Statistic_bot)
+2025-09-13 13:51:12 UTC | INFO     | __main__ | 🔄 Starting bot in polling mode...
+2025-09-13 13:55:02 UTC | WARNING  | aiogram.dispatcher | Received SIGTERM signal
+2025-09-13 13:55:02 UTC | INFO     | __main__ | 🛑 Starting graceful shutdown...
+2025-09-13 13:55:02 UTC | INFO     | __main__ | ⏰ Scheduler stopped
+2025-09-13 13:55:02 UTC | INFO     | __main__ | 🤖 Bot session closed
+2025-09-13 13:55:02 UTC | INFO     | __main__ | ✅ Graceful shutdown completed
+2025-09-13 13:55:05 UTC | INFO     | __main__ | 🚀 Starting Telegram Bot...
+2025-09-13 13:55:05 UTC | INFO     | __main__ | 📅 Start time: 2025-09-13 16:55:05.815853+03:00
+2025-09-13 13:55:05 UTC | INFO     | __main__ | 🤖 Bot created with token: 83143487...
+2025-09-13 13:55:05 UTC | INFO     | __main__ | 📡 Dispatcher configured with routers
+2025-09-13 13:55:05 UTC | INFO     | db.db | Database initialized successfully
+2025-09-13 13:55:05 UTC | INFO     | db.db | Database initialized: data/bot.sqlite3
+2025-09-13 13:55:05 UTC | INFO     | __main__ | 💾 Database initialized successfully
+2025-09-13 13:55:05 UTC | WARNING  | utils.adapter | TARGET_CHANNELS not configured - cannot create channel invites
+2025-09-13 13:55:05 UTC | INFO     | reports.report_manager | ReportManager initialized with reports directory: reports_output
+2025-09-13 13:55:05 UTC | INFO     | utils.adapter | ✅ All adapters initialized successfully
+2025-09-13 13:55:05 UTC | INFO     | handlers.commands | ✅ [Commands] Initialized 2 administrators: [272015356, 430284648]
+2025-09-13 13:55:05 UTC | INFO     | reports.report_manager | ReportManager initialized with reports directory: reports_output
+2025-09-13 13:55:05 UTC | INFO     | reports.unified_excel_template | UnifiedExcelTemplate initialized: reports_output/subscribers_report.xlsx
+2025-09-13 13:55:05 UTC | INFO     | reports.unified_report_manager | UnifiedReportManager initialized with reports directory: reports_output
+2025-09-13 13:55:05 UTC | INFO     | reports.scheduler | 🕒 [Scheduler] Initialized with default config
+2025-09-13 13:55:05 UTC | INFO     | handlers.commands | 🕒 [Commands] ReportScheduler initialized successfully
+2025-09-13 13:55:05 UTC | INFO     | reports.scheduler | 🔧 [Scheduler] Configuration updated: time=09:00:00, chats=0, enabled=False
+2025-09-13 13:55:05 UTC | INFO     | __main__ | ⏸️ Scheduler configured but not started (disabled or no target chats)
+2025-09-13 13:55:05 UTC | INFO     | __main__ | 🚀 All components initialized successfully
+2025-09-13 13:55:06 UTC | INFO     | __main__ | 🤖 Bot started: @statistickzbot (Statistic_bot)
+2025-09-13 13:55:06 UTC | INFO     | __main__ | 🔄 Starting bot in polling mode...
+2025-09-13 15:04:01 UTC | WARNING  | aiogram.dispatcher | Received SIGTERM signal
+2025-09-13 15:04:01 UTC | INFO     | __main__ | 🛑 Starting graceful shutdown...
+2025-09-13 15:04:01 UTC | INFO     | __main__ | ⏰ Scheduler stopped
+2025-09-13 15:04:01 UTC | INFO     | __main__ | 🤖 Bot session closed
+2025-09-13 15:04:01 UTC | INFO     | __main__ | ✅ Graceful shutdown completed
+2025-09-13 15:04:06 UTC | INFO     | __main__ | 🚀 Starting Telegram Bot...
+2025-09-13 15:04:06 UTC | INFO     | __main__ | 📅 Start time: 2025-09-13 18:04:06.855255+03:00
+2025-09-13 15:04:06 UTC | INFO     | __main__ | 🤖 Bot created with token: 83143487...
+2025-09-13 15:04:06 UTC | INFO     | __main__ | 📡 Dispatcher configured with routers
+2025-09-13 15:04:07 UTC | INFO     | db.db | Database initialized successfully
+2025-09-13 15:04:07 UTC | INFO     | db.db | Database initialized: data/bot.sqlite3
+2025-09-13 15:04:07 UTC | INFO     | __main__ | 💾 Database initialized successfully
+2025-09-13 15:04:07 UTC | WARNING  | utils.adapter | TARGET_CHANNELS not configured - cannot create channel invites
+2025-09-13 15:04:07 UTC | INFO     | reports.report_manager | ReportManager initialized with reports directory: reports_output
+2025-09-13 15:04:07 UTC | INFO     | utils.adapter | ✅ All adapters initialized successfully
+2025-09-13 15:04:07 UTC | INFO     | handlers.commands | ✅ [Commands] Initialized 2 administrators: [272015356, 430284648]
+2025-09-13 15:04:07 UTC | INFO     | reports.report_manager | ReportManager initialized with reports directory: reports_output
+2025-09-13 15:04:07 UTC | INFO     | reports.unified_excel_template | UnifiedExcelTemplate initialized: reports_output/subscribers_report.xlsx
+2025-09-13 15:04:07 UTC | INFO     | reports.unified_report_manager | UnifiedReportManager initialized with reports directory: reports_output
+2025-09-13 15:04:07 UTC | INFO     | reports.scheduler | 🕒 [Scheduler] Initialized with default config
+2025-09-13 15:04:07 UTC | INFO     | handlers.commands | 🕒 [Commands] ReportScheduler initialized successfully
+2025-09-13 15:04:07 UTC | INFO     | reports.scheduler | 🔧 [Scheduler] Configuration updated: time=09:00:00, chats=0, enabled=False
+2025-09-13 15:04:07 UTC | INFO     | __main__ | ⏸️ Scheduler configured but not started (disabled or no target chats)
+2025-09-13 15:04:07 UTC | INFO     | __main__ | 🚀 All components initialized successfully
+2025-09-13 15:04:07 UTC | INFO     | __main__ | 🤖 Bot started: @statistickzbot (Statistic_bot)
+2025-09-13 15:04:08 UTC | INFO     | __main__ | 🔄 Starting bot in polling mode...
+2025-09-13 15:07:45 UTC | ERROR    | aiogram.dispatcher | Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-09-13 15:07:45 UTC | WARNING  | aiogram.dispatcher | Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8314348716)
+2025-09-13 15:07:50 UTC | ERROR    | aiogram.dispatcher | Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-09-13 15:07:50 UTC | WARNING  | aiogram.dispatcher | Sleep for 1.292168 seconds and try again... (tryings = 1, bot id = 8314348716)
+2025-09-13 15:07:56 UTC | ERROR    | aiogram.dispatcher | Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-09-13 15:07:56 UTC | WARNING  | aiogram.dispatcher | Sleep for 1.722662 seconds and try again... (tryings = 2, bot id = 8314348716)
+2025-09-13 15:08:03 UTC | ERROR    | aiogram.dispatcher | Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-09-13 15:08:03 UTC | WARNING  | aiogram.dispatcher | Sleep for 2.244839 seconds and try again... (tryings = 3, bot id = 8314348716)
+2025-09-13 15:08:11 UTC | ERROR    | aiogram.dispatcher | Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-09-13 15:08:11 UTC | WARNING  | aiogram.dispatcher | Sleep for 2.863863 seconds and try again... (tryings = 4, bot id = 8314348716)
+2025-09-13 15:08:20 UTC | ERROR    | aiogram.dispatcher | Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-09-13 15:08:20 UTC | WARNING  | aiogram.dispatcher | Sleep for 3.820304 seconds and try again... (tryings = 5, bot id = 8314348716)
+2025-09-13 15:08:28 UTC | ERROR    | aiogram.dispatcher | Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-09-13 15:08:28 UTC | WARNING  | aiogram.dispatcher | Sleep for 5.077380 seconds and try again... (tryings = 6, bot id = 8314348716)
+2025-09-13 15:08:38 UTC | ERROR    | aiogram.dispatcher | Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-09-13 15:08:38 UTC | WARNING  | aiogram.dispatcher | Sleep for 4.976455 seconds and try again... (tryings = 7, bot id = 8314348716)
+2025-09-13 15:08:48 UTC | ERROR    | aiogram.dispatcher | Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-09-13 15:08:48 UTC | WARNING  | aiogram.dispatcher | Sleep for 5.205562 seconds and try again... (tryings = 8, bot id = 8314348716)
+2025-09-13 15:08:59 UTC | ERROR    | aiogram.dispatcher | Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-09-13 15:08:59 UTC | WARNING  | aiogram.dispatcher | Sleep for 5.196503 seconds and try again... (tryings = 9, bot id = 8314348716)
+2025-09-13 15:09:08 UTC | WARNING  | aiogram.dispatcher | Received SIGTERM signal
+2025-09-13 15:09:08 UTC | INFO     | __main__ | 🛑 Starting graceful shutdown...
+2025-09-13 15:09:08 UTC | INFO     | __main__ | ⏰ Scheduler stopped
+2025-09-13 15:09:08 UTC | INFO     | __main__ | 🤖 Bot session closed
+2025-09-13 15:09:08 UTC | INFO     | __main__ | ✅ Graceful shutdown completed
+2025-09-13 15:26:57 UTC | INFO     | __main__ | 🚀 Starting Telegram Bot...
+2025-09-13 15:26:57 UTC | INFO     | __main__ | 📅 Start time: 2025-09-13 18:26:57.296468+03:00
+2025-09-13 15:26:57 UTC | ERROR    | __main__ | ❌ BOT_TOKEN not found in environment variables
+2025-09-13 15:26:57 UTC | INFO     | __main__ | 🛑 Starting graceful shutdown...
+2025-09-13 15:26:57 UTC | INFO     | __main__ | ✅ Graceful shutdown completed
+2025-09-13 15:27:50 UTC | INFO     | __main__ | 🚀 Starting Telegram Bot...
+2025-09-13 15:27:50 UTC | INFO     | __main__ | 📅 Start time: 2025-09-13 18:27:50.687784+03:00
+2025-09-13 15:27:50 UTC | INFO     | __main__ | 🤖 Bot created with token: 83143487...
+2025-09-13 15:27:50 UTC | INFO     | __main__ | 📡 Dispatcher configured with routers
+2025-09-13 15:27:50 UTC | INFO     | db.db | Database initialized successfully
+2025-09-13 15:27:50 UTC | INFO     | db.db | Database initialized: data/bot.sqlite3
+2025-09-13 15:27:50 UTC | INFO     | __main__ | 💾 Database initialized successfully
+2025-09-13 15:27:50 UTC | WARNING  | utils.adapter | TARGET_CHANNELS not configured - cannot create channel invites
+2025-09-13 15:27:50 UTC | INFO     | reports.report_manager | ReportManager initialized with reports directory: reports_output
+2025-09-13 15:27:50 UTC | INFO     | utils.adapter | ✅ All adapters initialized successfully
+2025-09-13 15:27:50 UTC | WARNING  | handlers.commands | ⚠️ [Commands] ADMIN_IDS environment variable not set - no administrators configured
+2025-09-13 15:27:50 UTC | INFO     | reports.report_manager | ReportManager initialized with reports directory: reports_output
+2025-09-13 15:27:50 UTC | INFO     | reports.unified_excel_template | UnifiedExcelTemplate initialized: reports_output/subscribers_report.xlsx
+2025-09-13 15:27:50 UTC | INFO     | reports.unified_report_manager | UnifiedReportManager initialized with reports directory: reports_output
+2025-09-13 15:27:50 UTC | INFO     | reports.scheduler | 🕒 [Scheduler] Initialized with default config
+2025-09-13 15:27:50 UTC | INFO     | handlers.commands | 🕒 [Commands] ReportScheduler initialized successfully
+2025-09-13 15:27:50 UTC | INFO     | reports.scheduler | 🔧 [Scheduler] Configuration updated: time=23:59:00, chats=0, enabled=True
+2025-09-13 15:27:50 UTC | INFO     | __main__ | ⏸️ Scheduler configured but not started (disabled or no target chats)
+2025-09-13 15:27:50 UTC | INFO     | __main__ | 🚀 All components initialized successfully
+2025-09-13 15:27:51 UTC | INFO     | __main__ | 🤖 Bot started: @statistickzbot (Statistic_bot)
+2025-09-13 15:27:51 UTC | INFO     | __main__ | 🔄 Starting bot in polling mode...
+2025-09-13 15:27:55 UTC | ERROR    | aiogram.dispatcher | Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-09-13 15:27:55 UTC | WARNING  | aiogram.dispatcher | Sleep for 1.000000 seconds and try again... (tryings = 0, bot id = 8314348716)
+2025-09-13 15:28:01 UTC | ERROR    | aiogram.dispatcher | Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-09-13 15:28:01 UTC | WARNING  | aiogram.dispatcher | Sleep for 1.172808 seconds and try again... (tryings = 1, bot id = 8314348716)
+2025-09-13 15:28:07 UTC | ERROR    | aiogram.dispatcher | Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-09-13 15:28:07 UTC | WARNING  | aiogram.dispatcher | Sleep for 1.490032 seconds and try again... (tryings = 2, bot id = 8314348716)
+2025-09-13 15:28:14 UTC | ERROR    | aiogram.dispatcher | Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-09-13 15:28:14 UTC | WARNING  | aiogram.dispatcher | Sleep for 2.058934 seconds and try again... (tryings = 3, bot id = 8314348716)
+2025-09-13 15:28:19 UTC | ERROR    | aiogram.dispatcher | Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-09-13 15:28:19 UTC | WARNING  | aiogram.dispatcher | Sleep for 2.608914 seconds and try again... (tryings = 4, bot id = 8314348716)
+2025-09-13 15:28:29 UTC | ERROR    | aiogram.dispatcher | Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-09-13 15:28:29 UTC | WARNING  | aiogram.dispatcher | Sleep for 3.502162 seconds and try again... (tryings = 5, bot id = 8314348716)
+2025-09-13 15:28:37 UTC | ERROR    | aiogram.dispatcher | Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-09-13 15:28:37 UTC | WARNING  | aiogram.dispatcher | Sleep for 4.476596 seconds and try again... (tryings = 6, bot id = 8314348716)
+2025-09-13 15:28:46 UTC | ERROR    | aiogram.dispatcher | Failed to fetch updates - TelegramConflictError: Telegram server says - Conflict: terminated by other getUpdates request; make sure that only one bot instance is running
+2025-09-13 15:28:46 UTC | WARNING  | aiogram.dispatcher | Sleep for 5.047424 seconds and try again... (tryings = 7, bot id = 8314348716)
+2025-09-13 15:28:58 UTC | INFO     | handlers.ui | UI Start command from user 272015356 (@aibekbereketuly)
+2025-09-13 15:29:05 UTC | ERROR    | db.db | Database error: Telegram server says - Bad Request: message is not modified: specified new message content and reply markup are exactly the same as a current content and reply markup of the message
+2025-09-13 15:29:05 UTC | ERROR    | handlers.ui | Error showing my invited: Telegram server says - Bad Request: message is not modified: specified new message content and reply markup are exactly the same as a current content and reply markup of the message
+Traceback (most recent call last):
+  File "/home/runner/workspace/bot_project/handlers/ui.py", line 571, in handle_my_invited
+    await callback.message.edit_text(text, reply_markup=user_menu_kb(), parse_mode="Markdown")
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/aiogram/methods/base.py", line 84, in emit
+    return await bot(self)
+           ^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/aiogram/client/bot.py", line 488, in __call__
+    return await self.session(self, method, timeout=request_timeout)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/aiogram/client/session/base.py", line 254, in __call__
+    return cast(TelegramType, await middleware(bot, method))
+                              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/aiogram/client/session/aiohttp.py", line 189, in make_request
+    response = self.check_response(
+               ^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/aiogram/client/session/base.py", line 120, in check_response
+    raise TelegramBadRequest(method=method, message=description)
+aiogram.exceptions.TelegramBadRequest: Telegram server says - Bad Request: message is not modified: specified new message content and reply markup are exactly the same as a current content and reply markup of the message
+2025-09-13 15:29:49 UTC | WARNING  | aiogram.dispatcher | Received SIGTERM signal
+2025-09-13 15:29:50 UTC | INFO     | __main__ | 🛑 Starting graceful shutdown...
+2025-09-13 15:29:50 UTC | INFO     | __main__ | ⏰ Scheduler stopped
+2025-09-13 15:29:50 UTC | INFO     | __main__ | 🤖 Bot session closed
+2025-09-13 15:29:50 UTC | INFO     | __main__ | ✅ Graceful shutdown completed
+2025-09-13 15:29:54 UTC | INFO     | __main__ | 🚀 Starting Telegram Bot...
+2025-09-13 15:29:54 UTC | INFO     | __main__ | 📅 Start time: 2025-09-13 18:29:54.985798+03:00
+2025-09-13 15:29:54 UTC | INFO     | __main__ | 🤖 Bot created with token: 83143487...
+2025-09-13 15:29:54 UTC | INFO     | __main__ | 📡 Dispatcher configured with routers
+2025-09-13 15:29:54 UTC | INFO     | db.db | Database initialized successfully
+2025-09-13 15:29:54 UTC | INFO     | db.db | Database initialized: data/bot.sqlite3
+2025-09-13 15:29:54 UTC | INFO     | __main__ | 💾 Database initialized successfully
+2025-09-13 15:29:54 UTC | WARNING  | utils.adapter | TARGET_CHANNELS not configured - cannot create channel invites
+2025-09-13 15:29:54 UTC | INFO     | reports.report_manager | ReportManager initialized with reports directory: reports_output
+2025-09-13 15:29:54 UTC | INFO     | utils.adapter | ✅ All adapters initialized successfully
+2025-09-13 15:29:54 UTC | INFO     | handlers.commands | ✅ [Commands] Initialized 2 administrators: [272015356, 430284648]
+2025-09-13 15:29:54 UTC | INFO     | reports.report_manager | ReportManager initialized with reports directory: reports_output
+2025-09-13 15:29:54 UTC | INFO     | reports.unified_excel_template | UnifiedExcelTemplate initialized: reports_output/subscribers_report.xlsx
+2025-09-13 15:29:54 UTC | INFO     | reports.unified_report_manager | UnifiedReportManager initialized with reports directory: reports_output
+2025-09-13 15:29:54 UTC | INFO     | reports.scheduler | 🕒 [Scheduler] Initialized with default config
+2025-09-13 15:29:54 UTC | INFO     | handlers.commands | 🕒 [Commands] ReportScheduler initialized successfully
+2025-09-13 15:29:54 UTC | INFO     | reports.scheduler | 🔧 [Scheduler] Configuration updated: time=23:59:00, chats=0, enabled=True
+2025-09-13 15:29:54 UTC | INFO     | __main__ | ⏸️ Scheduler configured but not started (disabled or no target chats)
+2025-09-13 15:29:54 UTC | INFO     | __main__ | 🚀 All components initialized successfully
+2025-09-13 15:29:55 UTC | INFO     | __main__ | 🤖 Bot started: @statistickzbot (Statistic_bot)
+2025-09-13 15:29:55 UTC | INFO     | __main__ | 🔄 Starting bot in polling mode...
+2025-09-13 15:30:24 UTC | INFO     | handlers.ui | UI Start command from user 272015356 (@aibekbereketuly)
+2025-09-13 15:30:35 UTC | ERROR    | utils.adapter | Failed to create channel invite for aibekbereketuly: No target channels configured. Set TARGET_CHANNELS environment variable.
+Traceback (most recent call last):
+  File "/home/runner/workspace/bot_project/utils/adapter.py", line 47, in create_invite_for
+    raise ValueError("No target channels configured. Set TARGET_CHANNELS environment variable.")
+ValueError: No target channels configured. Set TARGET_CHANNELS environment variable.
+2025-09-13 15:30:35 UTC | ERROR    | handlers.ui | Error creating new inviter: No target channels configured. Set TARGET_CHANNELS environment variable.
+Traceback (most recent call last):
+  File "/home/runner/workspace/bot_project/handlers/ui.py", line 275, in handle_inviter_name_input
+    invite_link = await create_invite_for(inviter_name, bot)
+                  ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/bot_project/utils/adapter.py", line 566, in create_invite_for
+    return await manager.create_invite_for(name)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/bot_project/utils/adapter.py", line 47, in create_invite_for
+    raise ValueError("No target channels configured. Set TARGET_CHANNELS environment variable.")
+ValueError: No target channels configured. Set TARGET_CHANNELS environment variable.
+2025-09-13 15:31:00 UTC | INFO     | reports | Report started: full_export for all_data
+2025-09-13 15:31:00 UTC | ERROR    | reports | Report failed: full_export for all_data, error=At least one sheet must be visible
+2025-09-13 15:31:00 UTC | ERROR    | reports.report_manager | Failed to export full database: At least one sheet must be visible
+2025-09-13 15:31:00 UTC | ERROR    | utils.adapter | Failed to export excel full: At least one sheet must be visible
+Traceback (most recent call last):
+  File "/home/runner/workspace/bot_project/utils/adapter.py", line 404, in export_excel
+    return self.report_manager.export_full_database()
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/bot_project/reports/report_manager.py", line 321, in export_full_database
+    wb.save(file_path)
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/openpyxl/workbook/workbook.py", line 386, in save
+    save_workbook(self, filename)
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/openpyxl/writer/excel.py", line 294, in save_workbook
+    writer.save()
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/openpyxl/writer/excel.py", line 275, in save
+    self.write_data()
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/openpyxl/writer/excel.py", line 89, in write_data
+    archive.writestr(ARC_WORKBOOK, writer.write())
+                                   ^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/openpyxl/workbook/_writer.py", line 150, in write
+    self.write_views()
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/openpyxl/workbook/_writer.py", line 137, in write_views
+    active = get_active_sheet(self.wb)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/openpyxl/workbook/_writer.py", line 35, in get_active_sheet
+    raise IndexError("At least one sheet must be visible")
+IndexError: At least one sheet must be visible
+2025-09-13 15:31:00 UTC | ERROR    | handlers.ui | Error handling report excel: At least one sheet must be visible
+Traceback (most recent call last):
+  File "/home/runner/workspace/bot_project/handlers/ui.py", line 379, in handle_reports
+    file_path = export_excel("full")
+                ^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/bot_project/utils/adapter.py", line 591, in export_excel
+    return get_report_adapter().export_excel(report_type)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/bot_project/utils/adapter.py", line 404, in export_excel
+    return self.report_manager.export_full_database()
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/bot_project/reports/report_manager.py", line 321, in export_full_database
+    wb.save(file_path)
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/openpyxl/workbook/workbook.py", line 386, in save
+    save_workbook(self, filename)
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/openpyxl/writer/excel.py", line 294, in save_workbook
+    writer.save()
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/openpyxl/writer/excel.py", line 275, in save
+    self.write_data()
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/openpyxl/writer/excel.py", line 89, in write_data
+    archive.writestr(ARC_WORKBOOK, writer.write())
+                                   ^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/openpyxl/workbook/_writer.py", line 150, in write
+    self.write_views()
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/openpyxl/workbook/_writer.py", line 137, in write_views
+    active = get_active_sheet(self.wb)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/openpyxl/workbook/_writer.py", line 35, in get_active_sheet
+    raise IndexError("At least one sheet must be visible")
+IndexError: At least one sheet must be visible
+2025-09-13 15:31:45 UTC | ERROR    | handlers.ui | Error showing rating: Telegram server says - Bad Request: message is not modified: specified new message content and reply markup are exactly the same as a current content and reply markup of the message
+Traceback (most recent call last):
+  File "/home/runner/workspace/bot_project/handlers/ui.py", line 447, in handle_rating
+    await callback.message.edit_text(text, reply_markup=keyboard, parse_mode="Markdown")
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/aiogram/methods/base.py", line 84, in emit
+    return await bot(self)
+           ^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/aiogram/client/bot.py", line 488, in __call__
+    return await self.session(self, method, timeout=request_timeout)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/aiogram/client/session/base.py", line 254, in __call__
+    return cast(TelegramType, await middleware(bot, method))
+                              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/aiogram/client/session/aiohttp.py", line 189, in make_request
+    response = self.check_response(
+               ^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/aiogram/client/session/base.py", line 120, in check_response
+    raise TelegramBadRequest(method=method, message=description)
+aiogram.exceptions.TelegramBadRequest: Telegram server says - Bad Request: message is not modified: specified new message content and reply markup are exactly the same as a current content and reply markup of the message
+2025-09-13 15:32:06 UTC | ERROR    | aiogram.event | Cause exception while process update id=476404671 by bot id=8314348716
+TelegramBadRequest: Telegram server says - Bad Request: can't parse entities: Can't find end of the entity starting at byte offset 82
+Traceback (most recent call last):
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/aiogram/dispatcher/dispatcher.py", line 309, in _process_update
+    response = await self.feed_update(bot, update, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/aiogram/dispatcher/dispatcher.py", line 158, in feed_update
+    response = await self.update.wrap_outer_middleware(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/aiogram/dispatcher/middlewares/error.py", line 25, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/aiogram/dispatcher/middlewares/user_context.py", line 56, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/aiogram/fsm/middleware.py", line 42, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/aiogram/dispatcher/event/telegram.py", line 121, in trigger
+    return await wrapped_inner(event, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/aiogram/dispatcher/event/handler.py", line 43, in call
+    return await wrapped()
+           ^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/aiogram/dispatcher/dispatcher.py", line 276, in _listen_update
+    return await self.propagate_event(update_type=update_type, event=event, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/aiogram/dispatcher/router.py", line 146, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/aiogram/dispatcher/router.py", line 141, in _wrapped
+    return await self._propagate_event(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/aiogram/dispatcher/router.py", line 174, in _propagate_event
+    response = await router.propagate_event(update_type=update_type, event=event, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/aiogram/dispatcher/router.py", line 146, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/aiogram/dispatcher/router.py", line 141, in _wrapped
+    return await self._propagate_event(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/aiogram/dispatcher/router.py", line 166, in _propagate_event
+    response = await observer.trigger(event, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/aiogram/dispatcher/event/telegram.py", line 121, in trigger
+    return await wrapped_inner(event, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/aiogram/dispatcher/event/handler.py", line 43, in call
+    return await wrapped()
+           ^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/bot_project/handlers/ui.py", line 467, in handle_find_user_menu
+    await callback.message.edit_text(text, reply_markup=back_kb(), parse_mode="Markdown")
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/aiogram/methods/base.py", line 84, in emit
+    return await bot(self)
+           ^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/aiogram/client/bot.py", line 488, in __call__
+    return await self.session(self, method, timeout=request_timeout)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/aiogram/client/session/base.py", line 254, in __call__
+    return cast(TelegramType, await middleware(bot, method))
+                              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/aiogram/client/session/aiohttp.py", line 189, in make_request
+    response = self.check_response(
+               ^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/aiogram/client/session/base.py", line 120, in check_response
+    raise TelegramBadRequest(method=method, message=description)
+aiogram.exceptions.TelegramBadRequest: Telegram server says - Bad Request: can't parse entities: Can't find end of the entity starting at byte offset 82
+2025-09-13 15:32:09 UTC | WARNING  | handlers.ui | Unknown callback: menu:manual_add from user 272015356
+2025-09-13 15:32:12 UTC | WARNING  | handlers.ui | Unknown callback: menu:delete_user from user 272015356
+2025-09-13 15:32:55 UTC | WARNING  | handlers.ui | Unknown callback: menu:settings from user 272015356
+2025-09-13 15:35:22 UTC | WARNING  | aiogram.dispatcher | Received SIGTERM signal
+2025-09-13 15:35:22 UTC | INFO     | __main__ | 🛑 Starting graceful shutdown...
+2025-09-13 15:35:22 UTC | INFO     | __main__ | ⏰ Scheduler stopped
+2025-09-13 15:35:22 UTC | INFO     | __main__ | 🤖 Bot session closed
+2025-09-13 15:35:22 UTC | INFO     | __main__ | ✅ Graceful shutdown completed
+2025-09-13 15:35:27 UTC | INFO     | __main__ | 🚀 Starting Telegram Bot...
+2025-09-13 15:35:27 UTC | INFO     | __main__ | 📅 Start time: 2025-09-13 18:35:27.738542+03:00
+2025-09-13 15:35:27 UTC | INFO     | __main__ | 🤖 Bot created with token: 83143487...
+2025-09-13 15:35:27 UTC | INFO     | __main__ | 📡 Dispatcher configured with routers
+2025-09-13 15:35:27 UTC | INFO     | db.db | Database initialized successfully
+2025-09-13 15:35:27 UTC | INFO     | db.db | Database initialized: data/bot.sqlite3
+2025-09-13 15:35:27 UTC | INFO     | __main__ | 💾 Database initialized successfully
+2025-09-13 15:35:27 UTC | INFO     | utils.adapter | Configured target channels: ['-1002823150092']
+2025-09-13 15:35:27 UTC | INFO     | reports.report_manager | ReportManager initialized with reports directory: reports_output
+2025-09-13 15:35:27 UTC | INFO     | utils.adapter | ✅ All adapters initialized successfully
+2025-09-13 15:35:27 UTC | INFO     | handlers.commands | ✅ [Commands] Initialized 2 administrators: [272015356, 430284648]
+2025-09-13 15:35:27 UTC | INFO     | reports.report_manager | ReportManager initialized with reports directory: reports_output
+2025-09-13 15:35:27 UTC | INFO     | reports.unified_excel_template | UnifiedExcelTemplate initialized: reports_output/subscribers_report.xlsx
+2025-09-13 15:35:27 UTC | INFO     | reports.unified_report_manager | UnifiedReportManager initialized with reports directory: reports_output
+2025-09-13 15:35:27 UTC | INFO     | reports.scheduler | 🕒 [Scheduler] Initialized with default config
+2025-09-13 15:35:27 UTC | INFO     | handlers.commands | 🕒 [Commands] ReportScheduler initialized successfully
+2025-09-13 15:35:27 UTC | INFO     | reports.scheduler | 🔧 [Scheduler] Configuration updated: time=23:59:00, chats=0, enabled=True
+2025-09-13 15:35:27 UTC | INFO     | __main__ | ⏸️ Scheduler configured but not started (disabled or no target chats)
+2025-09-13 15:35:27 UTC | INFO     | __main__ | 🚀 All components initialized successfully
+2025-09-13 15:35:28 UTC | INFO     | __main__ | 🤖 Bot started: @statistickzbot (Statistic_bot)
+2025-09-13 15:35:28 UTC | INFO     | __main__ | 🔄 Starting bot in polling mode...
+2025-09-13 15:36:43 UTC | INFO     | handlers.ui | UI Start command from user 272015356 (@aibekbereketuly)
+2025-09-13 15:36:57 UTC | INFO     | utils.adapter | Created channel invite for aibekbereketuly: https://t.me/+Ony9YUVG68VjZmJi
+2025-09-13 15:36:58 UTC | INFO     | handlers.ui | Created new inviter aibekbereketuly by admin 272015356
+2025-09-13 15:37:20 UTC | ERROR    | aiogram.event | Cause exception while process update id=476404679 by bot id=8314348716
+TypeError: handle_chat_member_update() missing 1 required positional argument: 'update'
+Traceback (most recent call last):
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/aiogram/dispatcher/dispatcher.py", line 309, in _process_update
+    response = await self.feed_update(bot, update, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/aiogram/dispatcher/dispatcher.py", line 158, in feed_update
+    response = await self.update.wrap_outer_middleware(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/aiogram/dispatcher/middlewares/error.py", line 25, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/aiogram/dispatcher/middlewares/user_context.py", line 56, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/aiogram/fsm/middleware.py", line 42, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/aiogram/dispatcher/event/telegram.py", line 121, in trigger
+    return await wrapped_inner(event, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/aiogram/dispatcher/event/handler.py", line 43, in call
+    return await wrapped()
+           ^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/aiogram/dispatcher/dispatcher.py", line 276, in _listen_update
+    return await self.propagate_event(update_type=update_type, event=event, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/aiogram/dispatcher/router.py", line 146, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/aiogram/dispatcher/router.py", line 141, in _wrapped
+    return await self._propagate_event(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/aiogram/dispatcher/router.py", line 174, in _propagate_event
+    response = await router.propagate_event(update_type=update_type, event=event, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/aiogram/dispatcher/router.py", line 146, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/aiogram/dispatcher/router.py", line 141, in _wrapped
+    return await self._propagate_event(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/aiogram/dispatcher/router.py", line 166, in _propagate_event
+    response = await observer.trigger(event, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/aiogram/dispatcher/event/telegram.py", line 121, in trigger
+    return await wrapped_inner(event, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/aiogram/dispatcher/event/handler.py", line 43, in call
+    return await wrapped()
+                 ^^^^^^^^^
+TypeError: handle_chat_member_update() missing 1 required positional argument: 'update'
+2025-09-13 15:37:23 UTC | ERROR    | aiogram.event | Cause exception while process update id=476404680 by bot id=8314348716
+TypeError: handle_chat_member_update() missing 1 required positional argument: 'update'
+Traceback (most recent call last):
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/aiogram/dispatcher/dispatcher.py", line 309, in _process_update
+    response = await self.feed_update(bot, update, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/aiogram/dispatcher/dispatcher.py", line 158, in feed_update
+    response = await self.update.wrap_outer_middleware(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/aiogram/dispatcher/middlewares/error.py", line 25, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/aiogram/dispatcher/middlewares/user_context.py", line 56, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/aiogram/fsm/middleware.py", line 42, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/aiogram/dispatcher/event/telegram.py", line 121, in trigger
+    return await wrapped_inner(event, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/aiogram/dispatcher/event/handler.py", line 43, in call
+    return await wrapped()
+           ^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/aiogram/dispatcher/dispatcher.py", line 276, in _listen_update
+    return await self.propagate_event(update_type=update_type, event=event, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/aiogram/dispatcher/router.py", line 146, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/aiogram/dispatcher/router.py", line 141, in _wrapped
+    return await self._propagate_event(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/aiogram/dispatcher/router.py", line 174, in _propagate_event
+    response = await router.propagate_event(update_type=update_type, event=event, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/aiogram/dispatcher/router.py", line 146, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/aiogram/dispatcher/router.py", line 141, in _wrapped
+    return await self._propagate_event(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/aiogram/dispatcher/router.py", line 166, in _propagate_event
+    response = await observer.trigger(event, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/aiogram/dispatcher/event/telegram.py", line 121, in trigger
+    return await wrapped_inner(event, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/aiogram/dispatcher/event/handler.py", line 43, in call
+    return await wrapped()
+                 ^^^^^^^^^
+TypeError: handle_chat_member_update() missing 1 required positional argument: 'update'
+2025-09-13 15:37:50 UTC | ERROR    | handlers.ui | Error listing invites: Telegram server says - Bad Request: message is not modified: specified new message content and reply markup are exactly the same as a current content and reply markup of the message
+Traceback (most recent call last):
+  File "/home/runner/workspace/bot_project/handlers/ui.py", line 333, in handle_list_invites
+    await callback.message.edit_text(text, reply_markup=keyboard, parse_mode="Markdown")
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/aiogram/methods/base.py", line 84, in emit
+    return await bot(self)
+           ^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/aiogram/client/bot.py", line 488, in __call__
+    return await self.session(self, method, timeout=request_timeout)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/aiogram/client/session/base.py", line 254, in __call__
+    return cast(TelegramType, await middleware(bot, method))
+                              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/aiogram/client/session/aiohttp.py", line 189, in make_request
+    response = self.check_response(
+               ^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/aiogram/client/session/base.py", line 120, in check_response
+    raise TelegramBadRequest(method=method, message=description)
+aiogram.exceptions.TelegramBadRequest: Telegram server says - Bad Request: message is not modified: specified new message content and reply markup are exactly the same as a current content and reply markup of the message
+2025-09-13 15:38:04 UTC | INFO     | reports | Report started: full_export for all_data
+2025-09-13 15:38:04 UTC | INFO     | reports | Report completed: full_export for all_data, journal_records=0, retention_records=0, excel_file=reports_output/full_database_export_20250913_183804.xlsx
+2025-09-13 15:38:04 UTC | INFO     | reports.report_manager | Full database export completed: reports_output/full_database_export_20250913_183804.xlsx
+2025-09-13 15:38:35 UTC | ERROR    | handlers.ui | Error showing rating: Telegram server says - Bad Request: message is not modified: specified new message content and reply markup are exactly the same as a current content and reply markup of the message
+Traceback (most recent call last):
+  File "/home/runner/workspace/bot_project/handlers/ui.py", line 441, in handle_rating
+    await callback.message.edit_text(text, reply_markup=keyboard, parse_mode="Markdown")
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/aiogram/methods/base.py", line 84, in emit
+    return await bot(self)
+           ^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/aiogram/client/bot.py", line 488, in __call__
+    return await self.session(self, method, timeout=request_timeout)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/aiogram/client/session/base.py", line 254, in __call__
+    return cast(TelegramType, await middleware(bot, method))
+                              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/aiogram/client/session/aiohttp.py", line 189, in make_request
+    response = self.check_response(
+               ^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/aiogram/client/session/base.py", line 120, in check_response
+    raise TelegramBadRequest(method=method, message=description)
+aiogram.exceptions.TelegramBadRequest: Telegram server says - Bad Request: message is not modified: specified new message content and reply markup are exactly the same as a current content and reply markup of the message
+2025-09-13 15:39:59 UTC | WARNING  | aiogram.dispatcher | Received SIGTERM signal
+2025-09-13 15:39:59 UTC | INFO     | __main__ | 🛑 Starting graceful shutdown...
+2025-09-13 15:39:59 UTC | INFO     | __main__ | ⏰ Scheduler stopped
+2025-09-13 15:39:59 UTC | INFO     | __main__ | 🤖 Bot session closed
+2025-09-13 15:39:59 UTC | INFO     | __main__ | ✅ Graceful shutdown completed
+2025-09-13 15:40:03 UTC | INFO     | __main__ | 🚀 Starting Telegram Bot...
+2025-09-13 15:40:03 UTC | INFO     | __main__ | 📅 Start time: 2025-09-13 18:40:03.103986+03:00
+2025-09-13 15:40:03 UTC | INFO     | __main__ | 🤖 Bot created with token: 83143487...
+2025-09-13 15:40:03 UTC | INFO     | __main__ | 📡 Dispatcher configured with routers
+2025-09-13 15:40:03 UTC | INFO     | db.db | Database initialized successfully
+2025-09-13 15:40:03 UTC | INFO     | db.db | Database initialized: data/bot.sqlite3
+2025-09-13 15:40:03 UTC | INFO     | __main__ | 💾 Database initialized successfully
+2025-09-13 15:40:03 UTC | INFO     | utils.adapter | Configured target channels: ['-1002823150092']
+2025-09-13 15:40:03 UTC | INFO     | reports.report_manager | ReportManager initialized with reports directory: reports_output
+2025-09-13 15:40:03 UTC | INFO     | utils.adapter | ✅ All adapters initialized successfully
+2025-09-13 15:40:03 UTC | INFO     | handlers.commands | ✅ [Commands] Initialized 2 administrators: [272015356, 430284648]
+2025-09-13 15:40:03 UTC | INFO     | reports.report_manager | ReportManager initialized with reports directory: reports_output
+2025-09-13 15:40:03 UTC | INFO     | reports.unified_excel_template | UnifiedExcelTemplate initialized: reports_output/subscribers_report.xlsx
+2025-09-13 15:40:03 UTC | INFO     | reports.unified_report_manager | UnifiedReportManager initialized with reports directory: reports_output
+2025-09-13 15:40:03 UTC | INFO     | reports.scheduler | 🕒 [Scheduler] Initialized with default config
+2025-09-13 15:40:03 UTC | INFO     | handlers.commands | 🕒 [Commands] ReportScheduler initialized successfully
+2025-09-13 15:40:03 UTC | INFO     | reports.scheduler | 🔧 [Scheduler] Configuration updated: time=23:59:00, chats=0, enabled=True
+2025-09-13 15:40:03 UTC | INFO     | __main__ | ⏸️ Scheduler configured but not started (disabled or no target chats)
+2025-09-13 15:40:03 UTC | INFO     | __main__ | 🚀 All components initialized successfully
+2025-09-13 15:40:03 UTC | INFO     | __main__ | 🤖 Bot started: @statistickzbot (Statistic_bot)
+2025-09-13 15:40:03 UTC | INFO     | __main__ | 🔄 Starting bot in polling mode...
+2025-09-13 15:41:42 UTC | ERROR    | handlers.ui | Error showing rating: Telegram server says - Bad Request: message is not modified: specified new message content and reply markup are exactly the same as a current content and reply markup of the message
+Traceback (most recent call last):
+  File "/home/runner/workspace/bot_project/handlers/ui.py", line 443, in handle_rating
+    await callback.message.edit_text(text, reply_markup=keyboard, parse_mode="Markdown")
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/aiogram/methods/base.py", line 84, in emit
+    return await bot(self)
+           ^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/aiogram/client/bot.py", line 488, in __call__
+    return await self.session(self, method, timeout=request_timeout)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/aiogram/client/session/base.py", line 254, in __call__
+    return cast(TelegramType, await middleware(bot, method))
+                              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/aiogram/client/session/aiohttp.py", line 189, in make_request
+    response = self.check_response(
+               ^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/aiogram/client/session/base.py", line 120, in check_response
+    raise TelegramBadRequest(method=method, message=description)
+aiogram.exceptions.TelegramBadRequest: Telegram server says - Bad Request: message is not modified: specified new message content and reply markup are exactly the same as a current content and reply markup of the message
+2025-09-13 15:41:51 UTC | ERROR    | handlers.ui | Error showing rating: Telegram server says - Bad Request: message is not modified: specified new message content and reply markup are exactly the same as a current content and reply markup of the message
+Traceback (most recent call last):
+  File "/home/runner/workspace/bot_project/handlers/ui.py", line 443, in handle_rating
+    await callback.message.edit_text(text, reply_markup=keyboard, parse_mode="Markdown")
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/aiogram/methods/base.py", line 84, in emit
+    return await bot(self)
+           ^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/aiogram/client/bot.py", line 488, in __call__
+    return await self.session(self, method, timeout=request_timeout)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/aiogram/client/session/base.py", line 254, in __call__
+    return cast(TelegramType, await middleware(bot, method))
+                              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/aiogram/client/session/aiohttp.py", line 189, in make_request
+    response = self.check_response(
+               ^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/aiogram/client/session/base.py", line 120, in check_response
+    raise TelegramBadRequest(method=method, message=description)
+aiogram.exceptions.TelegramBadRequest: Telegram server says - Bad Request: message is not modified: specified new message content and reply markup are exactly the same as a current content and reply markup of the message
+2025-09-13 15:42:07 UTC | ERROR    | handlers.ui | Error showing rating: Telegram server says - Bad Request: message is not modified: specified new message content and reply markup are exactly the same as a current content and reply markup of the message
+Traceback (most recent call last):
+  File "/home/runner/workspace/bot_project/handlers/ui.py", line 443, in handle_rating
+    await callback.message.edit_text(text, reply_markup=keyboard, parse_mode="Markdown")
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/aiogram/methods/base.py", line 84, in emit
+    return await bot(self)
+           ^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/aiogram/client/bot.py", line 488, in __call__
+    return await self.session(self, method, timeout=request_timeout)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/aiogram/client/session/base.py", line 254, in __call__
+    return cast(TelegramType, await middleware(bot, method))
+                              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/aiogram/client/session/aiohttp.py", line 189, in make_request
+    response = self.check_response(
+               ^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/aiogram/client/session/base.py", line 120, in check_response
+    raise TelegramBadRequest(method=method, message=description)
+aiogram.exceptions.TelegramBadRequest: Telegram server says - Bad Request: message is not modified: specified new message content and reply markup are exactly the same as a current content and reply markup of the message
+2025-09-13 15:42:08 UTC | ERROR    | handlers.ui | Error showing rating: Telegram server says - Bad Request: message is not modified: specified new message content and reply markup are exactly the same as a current content and reply markup of the message
+Traceback (most recent call last):
+  File "/home/runner/workspace/bot_project/handlers/ui.py", line 443, in handle_rating
+    await callback.message.edit_text(text, reply_markup=keyboard, parse_mode="Markdown")
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/aiogram/methods/base.py", line 84, in emit
+    return await bot(self)
+           ^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/aiogram/client/bot.py", line 488, in __call__
+    return await self.session(self, method, timeout=request_timeout)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/aiogram/client/session/base.py", line 254, in __call__
+    return cast(TelegramType, await middleware(bot, method))
+                              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/aiogram/client/session/aiohttp.py", line 189, in make_request
+    response = self.check_response(
+               ^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/aiogram/client/session/base.py", line 120, in check_response
+    raise TelegramBadRequest(method=method, message=description)
+aiogram.exceptions.TelegramBadRequest: Telegram server says - Bad Request: message is not modified: specified new message content and reply markup are exactly the same as a current content and reply markup of the message
+2025-09-13 15:45:41 UTC | WARNING  | aiogram.dispatcher | Received SIGTERM signal
+2025-09-13 15:45:41 UTC | INFO     | __main__ | 🛑 Starting graceful shutdown...
+2025-09-13 15:45:41 UTC | INFO     | __main__ | ⏰ Scheduler stopped
+2025-09-13 15:45:41 UTC | INFO     | __main__ | 🤖 Bot session closed
+2025-09-13 15:45:41 UTC | INFO     | __main__ | ✅ Graceful shutdown completed
+2025-09-13 15:47:07 UTC | INFO     | __main__ | 🚀 Starting Telegram Bot...
+2025-09-13 15:47:07 UTC | INFO     | __main__ | 📅 Start time: 2025-09-13 20:47:07.407399+05:00
+2025-09-13 15:47:07 UTC | INFO     | __main__ | 🤖 Bot created with token: 83143487...
+2025-09-13 15:47:07 UTC | INFO     | __main__ | 📡 Dispatcher configured with routers
+2025-09-13 15:47:07 UTC | INFO     | db.db | Database initialized successfully
+2025-09-13 15:47:07 UTC | INFO     | db.db | Database initialized: data/bot.sqlite3
+2025-09-13 15:47:07 UTC | INFO     | __main__ | 💾 Database initialized successfully
+2025-09-13 15:47:07 UTC | INFO     | utils.adapter | Configured target channels: ['-1002823150092']
+2025-09-13 15:47:07 UTC | INFO     | reports.report_manager | ReportManager initialized with reports directory: reports_output
+2025-09-13 15:47:07 UTC | INFO     | utils.adapter | ✅ All adapters initialized successfully
+2025-09-13 15:47:07 UTC | INFO     | handlers.commands | ✅ [Commands] Initialized 2 administrators: [272015356, 430284648]
+2025-09-13 15:47:07 UTC | INFO     | reports.report_manager | ReportManager initialized with reports directory: reports_output
+2025-09-13 15:47:07 UTC | INFO     | reports.unified_excel_template | UnifiedExcelTemplate initialized: reports_output/subscribers_report.xlsx
+2025-09-13 15:47:07 UTC | INFO     | reports.unified_report_manager | UnifiedReportManager initialized with reports directory: reports_output
+2025-09-13 15:47:07 UTC | INFO     | reports.scheduler | 🕒 [Scheduler] Initialized with default config
+2025-09-13 15:47:07 UTC | INFO     | handlers.commands | 🕒 [Commands] ReportScheduler initialized successfully
+2025-09-13 15:47:07 UTC | INFO     | reports.scheduler | 🔧 [Scheduler] Configuration updated: time=23:59:00, chats=0, enabled=True
+2025-09-13 15:47:07 UTC | INFO     | __main__ | ⏸️ Scheduler configured but not started (disabled or no target chats)
+2025-09-13 15:47:07 UTC | INFO     | __main__ | 🚀 All components initialized successfully
+2025-09-13 15:47:07 UTC | INFO     | __main__ | 🤖 Bot started: @statistickzbot (Statistic_bot)
+2025-09-13 15:47:07 UTC | INFO     | __main__ | 🔄 Starting bot in polling mode...
+2025-09-13 16:00:56 UTC | ERROR    | handlers.ui | Error listing invites: Telegram server says - Bad Request: message is not modified: specified new message content and reply markup are exactly the same as a current content and reply markup of the message
+Traceback (most recent call last):
+  File "/home/runner/workspace/bot_project/handlers/ui.py", line 335, in handle_list_invites
+    await callback.message.edit_text(text, reply_markup=keyboard, parse_mode="Markdown")
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/aiogram/methods/base.py", line 84, in emit
+    return await bot(self)
+           ^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/aiogram/client/bot.py", line 488, in __call__
+    return await self.session(self, method, timeout=request_timeout)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/aiogram/client/session/base.py", line 254, in __call__
+    return cast(TelegramType, await middleware(bot, method))
+                              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/aiogram/client/session/aiohttp.py", line 189, in make_request
+    response = self.check_response(
+               ^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/aiogram/client/session/base.py", line 120, in check_response
+    raise TelegramBadRequest(method=method, message=description)
+aiogram.exceptions.TelegramBadRequest: Telegram server says - Bad Request: message is not modified: specified new message content and reply markup are exactly the same as a current content and reply markup of the message
+2025-09-13 16:01:07 UTC | INFO     | utils.adapter | Created channel invite for aibekbereketuly: https://t.me/+WG4ni2MmSRY3YTdi
+2025-09-13 16:01:07 UTC | INFO     | handlers.ui | Created invite link for aibekbereketuly by admin 272015356
+2025-09-13 16:05:38 UTC | ERROR    | aiogram.event | Cause exception while process update id=476404710 by bot id=8314348716
+TypeError: handle_chat_member_update() missing 1 required positional argument: 'update'
+Traceback (most recent call last):
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/aiogram/dispatcher/dispatcher.py", line 309, in _process_update
+    response = await self.feed_update(bot, update, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/aiogram/dispatcher/dispatcher.py", line 158, in feed_update
+    response = await self.update.wrap_outer_middleware(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/aiogram/dispatcher/middlewares/error.py", line 25, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/aiogram/dispatcher/middlewares/user_context.py", line 56, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/aiogram/fsm/middleware.py", line 42, in __call__
+    return await handler(event, data)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/aiogram/dispatcher/event/telegram.py", line 121, in trigger
+    return await wrapped_inner(event, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/aiogram/dispatcher/event/handler.py", line 43, in call
+    return await wrapped()
+           ^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/aiogram/dispatcher/dispatcher.py", line 276, in _listen_update
+    return await self.propagate_event(update_type=update_type, event=event, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/aiogram/dispatcher/router.py", line 146, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/aiogram/dispatcher/router.py", line 141, in _wrapped
+    return await self._propagate_event(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/aiogram/dispatcher/router.py", line 174, in _propagate_event
+    response = await router.propagate_event(update_type=update_type, event=event, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/aiogram/dispatcher/router.py", line 146, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/aiogram/dispatcher/router.py", line 141, in _wrapped
+    return await self._propagate_event(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/aiogram/dispatcher/router.py", line 166, in _propagate_event
+    response = await observer.trigger(event, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/aiogram/dispatcher/event/telegram.py", line 121, in trigger
+    return await wrapped_inner(event, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/aiogram/dispatcher/event/handler.py", line 43, in call
+    return await wrapped()
+                 ^^^^^^^^^
+TypeError: handle_chat_member_update() missing 1 required positional argument: 'update'
+2025-09-13 16:06:22 UTC | ERROR    | handlers.ui | Error listing invites: Telegram server says - Bad Request: message is not modified: specified new message content and reply markup are exactly the same as a current content and reply markup of the message
+Traceback (most recent call last):
+  File "/home/runner/workspace/bot_project/handlers/ui.py", line 335, in handle_list_invites
+    await callback.message.edit_text(text, reply_markup=keyboard, parse_mode="Markdown")
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/aiogram/methods/base.py", line 84, in emit
+    return await bot(self)
+           ^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/aiogram/client/bot.py", line 488, in __call__
+    return await self.session(self, method, timeout=request_timeout)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/aiogram/client/session/base.py", line 254, in __call__
+    return cast(TelegramType, await middleware(bot, method))
+                              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/aiogram/client/session/aiohttp.py", line 189, in make_request
+    response = self.check_response(
+               ^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/aiogram/client/session/base.py", line 120, in check_response
+    raise TelegramBadRequest(method=method, message=description)
+aiogram.exceptions.TelegramBadRequest: Telegram server says - Bad Request: message is not modified: specified new message content and reply markup are exactly the same as a current content and reply markup of the message
+2025-09-13 16:07:03 UTC | INFO     | handlers.ui | UI Start command from user 272015356 (@aibekbereketuly)
+2025-09-13 16:07:15 UTC | INFO     | reports | Report started: full_export for all_data
+2025-09-13 16:07:15 UTC | INFO     | reports | Report completed: full_export for all_data, journal_records=0, retention_records=0, excel_file=reports_output/full_database_export_20250913_210715.xlsx
+2025-09-13 16:07:15 UTC | INFO     | reports.report_manager | Full database export completed: reports_output/full_database_export_20250913_210715.xlsx
+2025-09-13 16:08:55 UTC | WARNING  | aiogram.dispatcher | Received SIGTERM signal
+2025-09-13 16:08:55 UTC | INFO     | __main__ | 🛑 Starting graceful shutdown...
+2025-09-13 16:08:55 UTC | INFO     | __main__ | ⏰ Scheduler stopped
+2025-09-13 16:08:55 UTC | INFO     | __main__ | 🤖 Bot session closed
+2025-09-13 16:08:55 UTC | INFO     | __main__ | ✅ Graceful shutdown completed
+2025-09-13 16:09:23 UTC | INFO     | __main__ | 🚀 Starting Telegram Bot...
+2025-09-13 16:09:23 UTC | INFO     | __main__ | 📅 Start time: 2025-09-13 21:09:23.234087+05:00
+2025-09-13 16:09:23 UTC | INFO     | __main__ | 🤖 Bot created with token: 83143487...
+2025-09-13 16:09:23 UTC | INFO     | __main__ | 📡 Dispatcher configured with routers
+2025-09-13 16:09:23 UTC | INFO     | db.db | Database initialized successfully
+2025-09-13 16:09:23 UTC | INFO     | db.db | Database initialized: data/bot.sqlite3
+2025-09-13 16:09:23 UTC | INFO     | __main__ | 💾 Database initialized successfully
+2025-09-13 16:09:23 UTC | INFO     | utils.adapter | Configured target channels: ['-1002823150092']
+2025-09-13 16:09:23 UTC | INFO     | reports.report_manager | ReportManager initialized with reports directory: reports_output
+2025-09-13 16:09:23 UTC | INFO     | utils.adapter | ✅ All adapters initialized successfully
+2025-09-13 16:09:23 UTC | INFO     | handlers.commands | ✅ [Commands] Initialized 2 administrators: [272015356, 430284648]
+2025-09-13 16:09:23 UTC | INFO     | reports.report_manager | ReportManager initialized with reports directory: reports_output
+2025-09-13 16:09:23 UTC | INFO     | reports.unified_excel_template | UnifiedExcelTemplate initialized: reports_output/subscribers_report.xlsx
+2025-09-13 16:09:23 UTC | INFO     | reports.unified_report_manager | UnifiedReportManager initialized with reports directory: reports_output
+2025-09-13 16:09:23 UTC | INFO     | reports.scheduler | 🕒 [Scheduler] Initialized with default config
+2025-09-13 16:09:23 UTC | INFO     | handlers.commands | 🕒 [Commands] ReportScheduler initialized successfully
+2025-09-13 16:09:23 UTC | INFO     | reports.scheduler | 🔧 [Scheduler] Configuration updated: time=23:59:00, chats=0, enabled=True
+2025-09-13 16:09:23 UTC | INFO     | __main__ | ⏸️ Scheduler configured but not started (disabled or no target chats)
+2025-09-13 16:09:23 UTC | INFO     | __main__ | 🚀 All components initialized successfully
+2025-09-13 16:09:23 UTC | INFO     | __main__ | 🤖 Bot started: @statistickzbot (Statistic_bot)
+2025-09-13 16:09:23 UTC | INFO     | __main__ | 🔄 Starting bot in polling mode...
+2025-09-13 16:12:55 UTC | WARNING  | aiogram.dispatcher | Received SIGTERM signal
+2025-09-13 16:12:55 UTC | INFO     | __main__ | 🛑 Starting graceful shutdown...
+2025-09-13 16:12:55 UTC | INFO     | __main__ | ⏰ Scheduler stopped
+2025-09-13 16:12:55 UTC | INFO     | __main__ | 🤖 Bot session closed
+2025-09-13 16:12:55 UTC | INFO     | __main__ | ✅ Graceful shutdown completed
+2025-09-13 16:12:59 UTC | INFO     | __main__ | 🚀 Starting Telegram Bot...
+2025-09-13 16:12:59 UTC | INFO     | __main__ | 📅 Start time: 2025-09-13 21:12:59.497091+05:00
+2025-09-13 16:12:59 UTC | INFO     | __main__ | 🤖 Bot created with token: 83143487...
+2025-09-13 16:12:59 UTC | INFO     | __main__ | 📡 Dispatcher configured with routers
+2025-09-13 16:12:59 UTC | INFO     | db.db | Database initialized successfully
+2025-09-13 16:12:59 UTC | INFO     | db.db | Database initialized: data/bot.sqlite3
+2025-09-13 16:12:59 UTC | INFO     | __main__ | 💾 Database initialized successfully
+2025-09-13 16:12:59 UTC | INFO     | utils.adapter | Configured target channels: ['-1002823150092']
+2025-09-13 16:12:59 UTC | INFO     | reports.report_manager | ReportManager initialized with reports directory: reports_output
+2025-09-13 16:12:59 UTC | INFO     | utils.adapter | ✅ All adapters initialized successfully
+2025-09-13 16:12:59 UTC | INFO     | handlers.commands | ✅ [Commands] Initialized 2 administrators: [272015356, 430284648]
+2025-09-13 16:12:59 UTC | INFO     | reports.report_manager | ReportManager initialized with reports directory: reports_output
+2025-09-13 16:12:59 UTC | INFO     | reports.unified_excel_template | UnifiedExcelTemplate initialized: reports_output/subscribers_report.xlsx
+2025-09-13 16:12:59 UTC | INFO     | reports.unified_report_manager | UnifiedReportManager initialized with reports directory: reports_output
+2025-09-13 16:12:59 UTC | INFO     | reports.scheduler | 🕒 [Scheduler] Initialized with default config
+2025-09-13 16:12:59 UTC | INFO     | handlers.commands | 🕒 [Commands] ReportScheduler initialized successfully
+2025-09-13 16:12:59 UTC | INFO     | reports.scheduler | 🔧 [Scheduler] Configuration updated: time=23:59:00, chats=0, enabled=True
+2025-09-13 16:12:59 UTC | INFO     | __main__ | ⏸️ Scheduler configured but not started (disabled or no target chats)
+2025-09-13 16:12:59 UTC | INFO     | __main__ | 🚀 All components initialized successfully
+2025-09-13 16:12:59 UTC | INFO     | __main__ | 🤖 Bot started: @statistickzbot (Statistic_bot)
+2025-09-13 16:13:00 UTC | INFO     | __main__ | 🔄 Starting bot in polling mode...
+2025-09-13 16:15:13 UTC | ERROR    | handlers.events | ❌ [Events] Error handling chat member update: 'str' object has no attribute 'value'
+Traceback (most recent call last):
+  File "/home/runner/workspace/bot_project/handlers/events.py", line 58, in handle_chat_member_update
+    logger.info(f"📝 [Events] Chat member update: chat_id={chat.id}, chat_type={chat.type.value}, "
+                                                                                ^^^^^^^^^^^^^^^
+AttributeError: 'str' object has no attribute 'value'
+2025-09-13 16:15:16 UTC | ERROR    | handlers.events | ❌ [Events] Error handling chat member update: 'str' object has no attribute 'value'
+Traceback (most recent call last):
+  File "/home/runner/workspace/bot_project/handlers/events.py", line 58, in handle_chat_member_update
+    logger.info(f"📝 [Events] Chat member update: chat_id={chat.id}, chat_type={chat.type.value}, "
+                                                                                ^^^^^^^^^^^^^^^
+AttributeError: 'str' object has no attribute 'value'
+2025-09-13 16:18:20 UTC | WARNING  | aiogram.dispatcher | Received SIGTERM signal
+2025-09-13 16:18:21 UTC | INFO     | __main__ | 🛑 Starting graceful shutdown...
+2025-09-13 16:18:21 UTC | INFO     | __main__ | ⏰ Scheduler stopped
+2025-09-13 16:18:21 UTC | INFO     | __main__ | 🤖 Bot session closed
+2025-09-13 16:18:21 UTC | INFO     | __main__ | ✅ Graceful shutdown completed
+2025-09-13 16:18:25 UTC | INFO     | __main__ | 🚀 Starting Telegram Bot...
+2025-09-13 16:18:25 UTC | INFO     | __main__ | 📅 Start time: 2025-09-13 21:18:25.083154+05:00
+2025-09-13 16:18:25 UTC | INFO     | __main__ | 🤖 Bot created with token: 83143487...
+2025-09-13 16:18:25 UTC | INFO     | __main__ | 📡 Dispatcher configured with routers
+2025-09-13 16:18:25 UTC | INFO     | db.db | Database initialized successfully
+2025-09-13 16:18:25 UTC | INFO     | db.db | Database initialized: data/bot.sqlite3
+2025-09-13 16:18:25 UTC | INFO     | __main__ | 💾 Database initialized successfully
+2025-09-13 16:18:25 UTC | INFO     | utils.adapter | Configured target channels: ['-1002823150092']
+2025-09-13 16:18:25 UTC | INFO     | reports.report_manager | ReportManager initialized with reports directory: reports_output
+2025-09-13 16:18:25 UTC | INFO     | utils.adapter | ✅ All adapters initialized successfully
+2025-09-13 16:18:25 UTC | INFO     | handlers.commands | ✅ [Commands] Initialized 2 administrators: [272015356, 430284648]
+2025-09-13 16:18:25 UTC | INFO     | reports.report_manager | ReportManager initialized with reports directory: reports_output
+2025-09-13 16:18:25 UTC | INFO     | reports.unified_excel_template | UnifiedExcelTemplate initialized: reports_output/subscribers_report.xlsx
+2025-09-13 16:18:25 UTC | INFO     | reports.unified_report_manager | UnifiedReportManager initialized with reports directory: reports_output
+2025-09-13 16:18:25 UTC | INFO     | reports.scheduler | 🕒 [Scheduler] Initialized with default config
+2025-09-13 16:18:25 UTC | INFO     | handlers.commands | 🕒 [Commands] ReportScheduler initialized successfully
+2025-09-13 16:18:25 UTC | INFO     | reports.scheduler | 🔧 [Scheduler] Configuration updated: time=23:59:00, chats=0, enabled=True
+2025-09-13 16:18:25 UTC | INFO     | __main__ | ⏸️ Scheduler configured but not started (disabled or no target chats)
+2025-09-13 16:18:25 UTC | INFO     | __main__ | 🚀 All components initialized successfully
+2025-09-13 16:18:25 UTC | INFO     | __main__ | 🤖 Bot started: @statistickzbot (Statistic_bot)
+2025-09-13 16:18:25 UTC | INFO     | __main__ | 🔄 Starting bot in polling mode...
+2025-09-13 16:18:32 UTC | INFO     | handlers.events | 📝 [Events] Chat member update: chat_id=-1002823150092, chat_type=channel, user_id=7063310576, old_status=member, new_status=left
+2025-09-13 16:18:32 UTC | ERROR    | handlers.events | ❌ [Events] Error handling chat member update: 'str' object has no attribute 'value'
+Traceback (most recent call last):
+  File "/home/runner/workspace/bot_project/handlers/events.py", line 95, in handle_chat_member_update
+    'chat_type': chat.type.value,
+                 ^^^^^^^^^^^^^^^
+AttributeError: 'str' object has no attribute 'value'
+2025-09-13 16:18:35 UTC | INFO     | handlers.events | 📝 [Events] Chat member update: chat_id=-1002823150092, chat_type=channel, user_id=7063310576, old_status=left, new_status=member
+2025-09-13 16:18:35 UTC | ERROR    | handlers.events | ❌ [Events] Error handling chat member update: 'str' object has no attribute 'value'
+Traceback (most recent call last):
+  File "/home/runner/workspace/bot_project/handlers/events.py", line 95, in handle_chat_member_update
+    'chat_type': chat.type.value,
+                 ^^^^^^^^^^^^^^^
+AttributeError: 'str' object has no attribute 'value'
+2025-09-13 16:20:02 UTC | WARNING  | aiogram.dispatcher | Received SIGTERM signal
+2025-09-13 16:20:02 UTC | INFO     | __main__ | 🛑 Starting graceful shutdown...
+2025-09-13 16:20:02 UTC | INFO     | __main__ | ⏰ Scheduler stopped
+2025-09-13 16:20:02 UTC | INFO     | __main__ | 🤖 Bot session closed
+2025-09-13 16:20:02 UTC | INFO     | __main__ | ✅ Graceful shutdown completed
+2025-09-13 16:20:06 UTC | INFO     | __main__ | 🚀 Starting Telegram Bot...
+2025-09-13 16:20:06 UTC | INFO     | __main__ | 📅 Start time: 2025-09-13 21:20:06.218510+05:00
+2025-09-13 16:20:06 UTC | INFO     | __main__ | 🤖 Bot created with token: 83143487...
+2025-09-13 16:20:06 UTC | INFO     | __main__ | 📡 Dispatcher configured with routers
+2025-09-13 16:20:06 UTC | INFO     | db.db | Database initialized successfully
+2025-09-13 16:20:06 UTC | INFO     | db.db | Database initialized: data/bot.sqlite3
+2025-09-13 16:20:06 UTC | INFO     | __main__ | 💾 Database initialized successfully
+2025-09-13 16:20:06 UTC | INFO     | utils.adapter | Configured target channels: ['-1002823150092']
+2025-09-13 16:20:06 UTC | INFO     | reports.report_manager | ReportManager initialized with reports directory: reports_output
+2025-09-13 16:20:06 UTC | INFO     | utils.adapter | ✅ All adapters initialized successfully
+2025-09-13 16:20:06 UTC | INFO     | handlers.commands | ✅ [Commands] Initialized 2 administrators: [272015356, 430284648]
+2025-09-13 16:20:06 UTC | INFO     | reports.report_manager | ReportManager initialized with reports directory: reports_output
+2025-09-13 16:20:06 UTC | INFO     | reports.unified_excel_template | UnifiedExcelTemplate initialized: reports_output/subscribers_report.xlsx
+2025-09-13 16:20:06 UTC | INFO     | reports.unified_report_manager | UnifiedReportManager initialized with reports directory: reports_output
+2025-09-13 16:20:06 UTC | INFO     | reports.scheduler | 🕒 [Scheduler] Initialized with default config
+2025-09-13 16:20:06 UTC | INFO     | handlers.commands | 🕒 [Commands] ReportScheduler initialized successfully
+2025-09-13 16:20:06 UTC | INFO     | reports.scheduler | 🔧 [Scheduler] Configuration updated: time=23:59:00, chats=0, enabled=True
+2025-09-13 16:20:06 UTC | INFO     | __main__ | ⏸️ Scheduler configured but not started (disabled or no target chats)
+2025-09-13 16:20:06 UTC | INFO     | __main__ | 🚀 All components initialized successfully
+2025-09-13 16:20:06 UTC | INFO     | __main__ | 🤖 Bot started: @statistickzbot (Statistic_bot)
+2025-09-13 16:20:06 UTC | INFO     | __main__ | 🔄 Starting bot in polling mode...
+2025-09-13 16:21:44 UTC | INFO     | handlers.events | 📝 [Events] Chat member update: chat_id=-1002823150092, chat_type=channel, user_id=7063310576, old_status=member, new_status=left
+2025-09-13 16:21:44 UTC | ERROR    | handlers.events | ❌ [Events] Error handling chat member update: 'str' object has no attribute 'value'
+Traceback (most recent call last):
+  File "/home/runner/workspace/bot_project/handlers/events.py", line 101, in handle_chat_member_update
+    'old_status': old_status.value,
+                  ^^^^^^^^^^^^^^^^
+AttributeError: 'str' object has no attribute 'value'
+2025-09-13 16:21:50 UTC | INFO     | handlers.events | 📝 [Events] Chat member update: chat_id=-1002823150092, chat_type=channel, user_id=7063310576, old_status=left, new_status=member
+2025-09-13 16:21:50 UTC | ERROR    | handlers.events | ❌ [Events] Error handling chat member update: 'str' object has no attribute 'value'
+Traceback (most recent call last):
+  File "/home/runner/workspace/bot_project/handlers/events.py", line 101, in handle_chat_member_update
+    'old_status': old_status.value,
+                  ^^^^^^^^^^^^^^^^
+AttributeError: 'str' object has no attribute 'value'
+2025-09-13 16:22:10 UTC | ERROR    | handlers.ui | Error listing invites: Telegram server says - Bad Request: message is not modified: specified new message content and reply markup are exactly the same as a current content and reply markup of the message
+Traceback (most recent call last):
+  File "/home/runner/workspace/bot_project/handlers/ui.py", line 335, in handle_list_invites
+    await callback.message.edit_text(text, reply_markup=keyboard, parse_mode="Markdown")
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/aiogram/methods/base.py", line 84, in emit
+    return await bot(self)
+           ^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/aiogram/client/bot.py", line 488, in __call__
+    return await self.session(self, method, timeout=request_timeout)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/aiogram/client/session/base.py", line 254, in __call__
+    return cast(TelegramType, await middleware(bot, method))
+                              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/aiogram/client/session/aiohttp.py", line 189, in make_request
+    response = self.check_response(
+               ^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/aiogram/client/session/base.py", line 120, in check_response
+    raise TelegramBadRequest(method=method, message=description)
+aiogram.exceptions.TelegramBadRequest: Telegram server says - Bad Request: message is not modified: specified new message content and reply markup are exactly the same as a current content and reply markup of the message
+2025-09-13 16:23:43 UTC | WARNING  | aiogram.dispatcher | Received SIGTERM signal
+2025-09-13 16:23:43 UTC | INFO     | __main__ | 🛑 Starting graceful shutdown...
+2025-09-13 16:23:43 UTC | INFO     | __main__ | ⏰ Scheduler stopped
+2025-09-13 16:23:43 UTC | INFO     | __main__ | 🤖 Bot session closed
+2025-09-13 16:23:43 UTC | INFO     | __main__ | ✅ Graceful shutdown completed
+2025-09-13 16:23:47 UTC | INFO     | __main__ | 🚀 Starting Telegram Bot...
+2025-09-13 16:23:47 UTC | INFO     | __main__ | 📅 Start time: 2025-09-13 21:23:47.384890+05:00
+2025-09-13 16:23:47 UTC | INFO     | __main__ | 🤖 Bot created with token: 83143487...
+2025-09-13 16:23:47 UTC | INFO     | __main__ | 📡 Dispatcher configured with routers
+2025-09-13 16:23:47 UTC | INFO     | db.db | Database initialized successfully
+2025-09-13 16:23:47 UTC | INFO     | db.db | Database initialized: data/bot.sqlite3
+2025-09-13 16:23:47 UTC | INFO     | __main__ | 💾 Database initialized successfully
+2025-09-13 16:23:47 UTC | INFO     | utils.adapter | Configured target channels: ['-1002823150092']
+2025-09-13 16:23:47 UTC | INFO     | reports.report_manager | ReportManager initialized with reports directory: reports_output
+2025-09-13 16:23:47 UTC | INFO     | utils.adapter | ✅ All adapters initialized successfully
+2025-09-13 16:23:47 UTC | INFO     | handlers.commands | ✅ [Commands] Initialized 2 administrators: [272015356, 430284648]
+2025-09-13 16:23:47 UTC | INFO     | reports.report_manager | ReportManager initialized with reports directory: reports_output
+2025-09-13 16:23:47 UTC | INFO     | reports.unified_excel_template | UnifiedExcelTemplate initialized: reports_output/subscribers_report.xlsx
+2025-09-13 16:23:47 UTC | INFO     | reports.unified_report_manager | UnifiedReportManager initialized with reports directory: reports_output
+2025-09-13 16:23:47 UTC | INFO     | reports.scheduler | 🕒 [Scheduler] Initialized with default config
+2025-09-13 16:23:47 UTC | INFO     | handlers.commands | 🕒 [Commands] ReportScheduler initialized successfully
+2025-09-13 16:23:47 UTC | INFO     | reports.scheduler | 🔧 [Scheduler] Configuration updated: time=23:59:00, chats=0, enabled=True
+2025-09-13 16:23:47 UTC | INFO     | __main__ | ⏸️ Scheduler configured but not started (disabled or no target chats)
+2025-09-13 16:23:47 UTC | INFO     | __main__ | 🚀 All components initialized successfully
+2025-09-13 16:23:47 UTC | INFO     | __main__ | 🤖 Bot started: @statistickzbot (Statistic_bot)
+2025-09-13 16:23:48 UTC | INFO     | __main__ | 🔄 Starting bot in polling mode...
+2025-09-13 16:25:05 UTC | INFO     | handlers.events | 📝 [Events] Chat member update: chat_id=-1002823150092, chat_type=channel, user_id=7063310576, old_status=member, new_status=left
+2025-09-13 16:25:05 UTC | ERROR    | handlers.events | ❌ [Events] Error handling chat member update: 'str' object has no attribute 'value'
+Traceback (most recent call last):
+  File "/home/runner/workspace/bot_project/handlers/events.py", line 108, in handle_chat_member_update
+    'type': chat.type.value,
+            ^^^^^^^^^^^^^^^
+AttributeError: 'str' object has no attribute 'value'
+2025-09-13 16:25:07 UTC | INFO     | handlers.events | 📝 [Events] Chat member update: chat_id=-1002823150092, chat_type=channel, user_id=7063310576, old_status=left, new_status=member
+2025-09-13 16:25:07 UTC | ERROR    | handlers.events | ❌ [Events] Error handling chat member update: 'str' object has no attribute 'value'
+Traceback (most recent call last):
+  File "/home/runner/workspace/bot_project/handlers/events.py", line 108, in handle_chat_member_update
+    'type': chat.type.value,
+            ^^^^^^^^^^^^^^^
+AttributeError: 'str' object has no attribute 'value'
+2025-09-13 16:26:21 UTC | WARNING  | aiogram.dispatcher | Received SIGTERM signal
+2025-09-13 16:26:21 UTC | INFO     | __main__ | 🛑 Starting graceful shutdown...
+2025-09-13 16:26:21 UTC | INFO     | __main__ | ⏰ Scheduler stopped
+2025-09-13 16:26:21 UTC | INFO     | __main__ | 🤖 Bot session closed
+2025-09-13 16:26:21 UTC | INFO     | __main__ | ✅ Graceful shutdown completed
+2025-09-13 16:26:24 UTC | INFO     | __main__ | 🚀 Starting Telegram Bot...
+2025-09-13 16:26:24 UTC | INFO     | __main__ | 📅 Start time: 2025-09-13 21:26:24.940237+05:00
+2025-09-13 16:26:24 UTC | INFO     | __main__ | 🤖 Bot created with token: 83143487...
+2025-09-13 16:26:24 UTC | INFO     | __main__ | 📡 Dispatcher configured with routers
+2025-09-13 16:26:24 UTC | INFO     | db.db | Database initialized successfully
+2025-09-13 16:26:24 UTC | INFO     | db.db | Database initialized: data/bot.sqlite3
+2025-09-13 16:26:24 UTC | INFO     | __main__ | 💾 Database initialized successfully
+2025-09-13 16:26:24 UTC | INFO     | utils.adapter | Configured target channels: ['-1002823150092']
+2025-09-13 16:26:24 UTC | INFO     | reports.report_manager | ReportManager initialized with reports directory: reports_output
+2025-09-13 16:26:24 UTC | INFO     | utils.adapter | ✅ All adapters initialized successfully
+2025-09-13 16:26:24 UTC | INFO     | handlers.commands | ✅ [Commands] Initialized 2 administrators: [272015356, 430284648]
+2025-09-13 16:26:24 UTC | INFO     | reports.report_manager | ReportManager initialized with reports directory: reports_output
+2025-09-13 16:26:24 UTC | INFO     | reports.unified_excel_template | UnifiedExcelTemplate initialized: reports_output/subscribers_report.xlsx
+2025-09-13 16:26:24 UTC | INFO     | reports.unified_report_manager | UnifiedReportManager initialized with reports directory: reports_output
+2025-09-13 16:26:24 UTC | INFO     | reports.scheduler | 🕒 [Scheduler] Initialized with default config
+2025-09-13 16:26:24 UTC | INFO     | handlers.commands | 🕒 [Commands] ReportScheduler initialized successfully
+2025-09-13 16:26:24 UTC | INFO     | reports.scheduler | 🔧 [Scheduler] Configuration updated: time=23:59:00, chats=0, enabled=True
+2025-09-13 16:26:24 UTC | INFO     | __main__ | ⏸️ Scheduler configured but not started (disabled or no target chats)
+2025-09-13 16:26:24 UTC | INFO     | __main__ | 🚀 All components initialized successfully
+2025-09-13 16:26:25 UTC | INFO     | __main__ | 🤖 Bot started: @statistickzbot (Statistic_bot)
+2025-09-13 16:26:25 UTC | INFO     | __main__ | 🔄 Starting bot in polling mode...
+2025-09-13 16:26:31 UTC | WARNING  | aiogram.dispatcher | Received SIGTERM signal
+2025-09-13 16:26:31 UTC | INFO     | __main__ | 🛑 Starting graceful shutdown...
+2025-09-13 16:26:31 UTC | INFO     | __main__ | ⏰ Scheduler stopped
+2025-09-13 16:26:31 UTC | INFO     | __main__ | 🤖 Bot session closed
+2025-09-13 16:26:31 UTC | INFO     | __main__ | ✅ Graceful shutdown completed
+2025-09-13 16:26:35 UTC | INFO     | __main__ | 🚀 Starting Telegram Bot...
+2025-09-13 16:26:35 UTC | INFO     | __main__ | 📅 Start time: 2025-09-13 21:26:35.532675+05:00
+2025-09-13 16:26:35 UTC | INFO     | __main__ | 🤖 Bot created with token: 83143487...
+2025-09-13 16:26:35 UTC | INFO     | __main__ | 📡 Dispatcher configured with routers
+2025-09-13 16:26:35 UTC | INFO     | db.db | Database initialized successfully
+2025-09-13 16:26:35 UTC | INFO     | db.db | Database initialized: data/bot.sqlite3
+2025-09-13 16:26:35 UTC | INFO     | __main__ | 💾 Database initialized successfully
+2025-09-13 16:26:35 UTC | INFO     | utils.adapter | Configured target channels: ['-1002823150092']
+2025-09-13 16:26:35 UTC | INFO     | reports.report_manager | ReportManager initialized with reports directory: reports_output
+2025-09-13 16:26:35 UTC | INFO     | utils.adapter | ✅ All adapters initialized successfully
+2025-09-13 16:26:35 UTC | INFO     | handlers.commands | ✅ [Commands] Initialized 2 administrators: [272015356, 430284648]
+2025-09-13 16:26:35 UTC | INFO     | reports.report_manager | ReportManager initialized with reports directory: reports_output
+2025-09-13 16:26:35 UTC | INFO     | reports.unified_excel_template | UnifiedExcelTemplate initialized: reports_output/subscribers_report.xlsx
+2025-09-13 16:26:35 UTC | INFO     | reports.unified_report_manager | UnifiedReportManager initialized with reports directory: reports_output
+2025-09-13 16:26:35 UTC | INFO     | reports.scheduler | 🕒 [Scheduler] Initialized with default config
+2025-09-13 16:26:35 UTC | INFO     | handlers.commands | 🕒 [Commands] ReportScheduler initialized successfully
+2025-09-13 16:26:35 UTC | INFO     | reports.scheduler | 🔧 [Scheduler] Configuration updated: time=23:59:00, chats=0, enabled=True
+2025-09-13 16:26:35 UTC | INFO     | __main__ | ⏸️ Scheduler configured but not started (disabled or no target chats)
+2025-09-13 16:26:35 UTC | INFO     | __main__ | 🚀 All components initialized successfully
+2025-09-13 16:26:35 UTC | INFO     | __main__ | 🤖 Bot started: @statistickzbot (Statistic_bot)
+2025-09-13 16:26:36 UTC | INFO     | __main__ | 🔄 Starting bot in polling mode...
+2025-09-13 16:28:14 UTC | INFO     | handlers.events | 📝 [Events] Chat member update: chat_id=-1002823150092, chat_type=channel, user_id=7063310576, old_status=member, new_status=left
+2025-09-13 16:28:14 UTC | INFO     | db.db | Journal event inserted: unsubscribe for tg_user_id=7063310576, journal_id=1
+2025-09-13 16:28:14 UTC | INFO     | handlers.events | ✅ [Events] Recorded unsubscribe event: chat_id=-1002823150092, user_id=7063310576
+2025-09-13 16:28:20 UTC | INFO     | handlers.events | 📝 [Events] Chat member update: chat_id=-1002823150092, chat_type=channel, user_id=7063310576, old_status=left, new_status=member
+2025-09-13 16:28:20 UTC | INFO     | db.db | Journal event inserted: subscribe for tg_user_id=7063310576, journal_id=2
+2025-09-13 16:28:20 UTC | INFO     | handlers.events | ✅ [Events] Recorded subscribe event: chat_id=-1002823150092, user_id=7063310576
+2025-09-13 16:39:26 UTC | INFO     | __main__ | 🚀 Starting Telegram Bot...
+2025-09-13 16:39:26 UTC | INFO     | __main__ | 📅 Start time: 2025-09-13 21:39:26.841074+05:00
+2025-09-13 16:39:26 UTC | INFO     | __main__ | 🤖 Bot created with token: 83143487...
+2025-09-13 16:39:26 UTC | INFO     | __main__ | 📡 Dispatcher configured with routers
+2025-09-13 16:39:26 UTC | INFO     | db.db | Database initialized successfully
+2025-09-13 16:39:26 UTC | INFO     | db.db | Database initialized: data/bot.sqlite3
+2025-09-13 16:39:26 UTC | INFO     | __main__ | 💾 Database initialized successfully
+2025-09-13 16:39:26 UTC | WARNING  | utils.adapter | TARGET_CHANNELS not configured - cannot create channel invites
+2025-09-13 16:39:26 UTC | INFO     | reports.report_manager | ReportManager initialized with reports directory: reports_output
+2025-09-13 16:39:26 UTC | INFO     | utils.adapter | ✅ All adapters initialized successfully
+2025-09-13 16:39:26 UTC | INFO     | handlers.commands | ✅ [Commands] Initialized 2 administrators: [272015356, 430284648]
+2025-09-13 16:39:26 UTC | INFO     | reports.report_manager | ReportManager initialized with reports directory: reports_output
+2025-09-13 16:39:26 UTC | INFO     | reports.unified_excel_template | UnifiedExcelTemplate initialized: reports_output/subscribers_report.xlsx
+2025-09-13 16:39:26 UTC | INFO     | reports.unified_report_manager | UnifiedReportManager initialized with reports directory: reports_output
+2025-09-13 16:39:26 UTC | INFO     | reports.scheduler | 🕒 [Scheduler] Initialized with default config
+2025-09-13 16:39:26 UTC | INFO     | handlers.commands | 🕒 [Commands] ReportScheduler initialized successfully
+2025-09-13 16:39:26 UTC | INFO     | reports.scheduler | 🔧 [Scheduler] Configuration updated: time=09:00:00, chats=1, enabled=True
+2025-09-13 16:39:26 UTC | INFO     | apscheduler.scheduler | Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2025-09-13 16:39:26 UTC | INFO     | reports.scheduler | 📅 [Scheduler] Daily reports scheduled for 09:00:00
+2025-09-13 16:39:26 UTC | INFO     | apscheduler.scheduler | Added job "ReportScheduler._send_daily_reports" to job store "default"
+2025-09-13 16:39:26 UTC | INFO     | apscheduler.scheduler | Scheduler started
+2025-09-13 16:39:26 UTC | INFO     | reports.scheduler | 🚀 [Scheduler] Started with 1 target chats
+2025-09-13 16:39:26 UTC | INFO     | __main__ | ⏰ Scheduler started: 09:00:00, 1 chats
+2025-09-13 16:39:26 UTC | INFO     | __main__ | 🚀 All components initialized successfully
+2025-09-13 16:39:27 UTC | INFO     | __main__ | 🤖 Bot started: @statistickzbot (Statistic_bot)
+2025-09-13 16:39:27 UTC | INFO     | __main__ | 🔄 Starting bot in polling mode...
+2025-09-13 16:41:31 UTC | WARNING  | aiogram.dispatcher | Received SIGTERM signal
+2025-09-13 16:41:31 UTC | INFO     | __main__ | 🛑 Starting graceful shutdown...
+2025-09-13 16:41:31 UTC | INFO     | reports.scheduler | 🛑 [Scheduler] Stopped
+2025-09-13 16:41:31 UTC | INFO     | __main__ | ⏰ Scheduler stopped
+2025-09-13 16:41:31 UTC | INFO     | __main__ | 🤖 Bot session closed
+2025-09-13 16:41:31 UTC | INFO     | __main__ | ✅ Graceful shutdown completed
+2025-09-13 16:41:31 UTC | INFO     | apscheduler.scheduler | Scheduler has been shut down
+2025-09-13 16:41:34 UTC | INFO     | __main__ | 🚀 Starting Telegram Bot...
+2025-09-13 16:41:34 UTC | INFO     | __main__ | 📅 Start time: 2025-09-13 21:41:34.893557+05:00
+2025-09-13 16:41:34 UTC | INFO     | __main__ | 🤖 Bot created with token: 83143487...
+2025-09-13 16:41:34 UTC | INFO     | __main__ | 📡 Dispatcher configured with routers
+2025-09-13 16:41:34 UTC | INFO     | db.db | Database initialized successfully
+2025-09-13 16:41:34 UTC | INFO     | db.db | Database initialized: data/bot.sqlite3
+2025-09-13 16:41:34 UTC | INFO     | __main__ | 💾 Database initialized successfully
+2025-09-13 16:41:34 UTC | WARNING  | utils.adapter | TARGET_CHANNELS not configured - cannot create channel invites
+2025-09-13 16:41:34 UTC | INFO     | reports.report_manager | ReportManager initialized with reports directory: reports_output
+2025-09-13 16:41:34 UTC | INFO     | utils.adapter | ✅ All adapters initialized successfully
+2025-09-13 16:41:34 UTC | INFO     | handlers.commands | ✅ [Commands] Initialized 2 administrators: [272015356, 430284648]
+2025-09-13 16:41:34 UTC | INFO     | reports.report_manager | ReportManager initialized with reports directory: reports_output
+2025-09-13 16:41:34 UTC | INFO     | reports.unified_excel_template | UnifiedExcelTemplate initialized: reports_output/subscribers_report.xlsx
+2025-09-13 16:41:34 UTC | INFO     | reports.unified_report_manager | UnifiedReportManager initialized with reports directory: reports_output
+2025-09-13 16:41:34 UTC | INFO     | reports.scheduler | 🕒 [Scheduler] Initialized with default config
+2025-09-13 16:41:34 UTC | INFO     | handlers.commands | 🕒 [Commands] ReportScheduler initialized successfully
+2025-09-13 16:41:34 UTC | INFO     | reports.scheduler | 🔧 [Scheduler] Configuration updated: time=09:00:00, chats=1, enabled=True
+2025-09-13 16:41:34 UTC | INFO     | apscheduler.scheduler | Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2025-09-13 16:41:34 UTC | INFO     | reports.scheduler | 📅 [Scheduler] Daily reports scheduled for 09:00:00
+2025-09-13 16:41:34 UTC | INFO     | apscheduler.scheduler | Added job "ReportScheduler._send_daily_reports" to job store "default"
+2025-09-13 16:41:34 UTC | INFO     | apscheduler.scheduler | Scheduler started
+2025-09-13 16:41:34 UTC | INFO     | reports.scheduler | 🚀 [Scheduler] Started with 1 target chats
+2025-09-13 16:41:34 UTC | INFO     | __main__ | ⏰ Scheduler started: 09:00:00, 1 chats
+2025-09-13 16:41:34 UTC | INFO     | __main__ | 🚀 All components initialized successfully
+2025-09-13 16:41:35 UTC | INFO     | __main__ | 🤖 Bot started: @statistickzbot (Statistic_bot)
+2025-09-13 16:41:35 UTC | INFO     | __main__ | 🔄 Starting bot in polling mode...
+2025-09-13 16:45:24 UTC | INFO     | handlers.ui | UI Start command from user 272015356 (@aibekbereketuly)
+2025-09-13 16:45:28 UTC | ERROR    | utils.adapter | Failed to create channel invite for aibekbereketuly: No target channels configured. Set TARGET_CHANNELS environment variable.
+Traceback (most recent call last):
+  File "/home/runner/workspace/bot_project/utils/adapter.py", line 47, in create_invite_for
+    raise ValueError("No target channels configured. Set TARGET_CHANNELS environment variable.")
+ValueError: No target channels configured. Set TARGET_CHANNELS environment variable.
+2025-09-13 16:45:28 UTC | ERROR    | handlers.ui | Error creating invite for existing inviter: No target channels configured. Set TARGET_CHANNELS environment variable.
+Traceback (most recent call last):
+  File "/home/runner/workspace/bot_project/handlers/ui.py", line 206, in handle_existing_inviter
+    invite_link = await create_invite_for(inviter_name, bot)
+                  ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/bot_project/utils/adapter.py", line 566, in create_invite_for
+    return await manager.create_invite_for(name)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/bot_project/utils/adapter.py", line 47, in create_invite_for
+    raise ValueError("No target channels configured. Set TARGET_CHANNELS environment variable.")
+ValueError: No target channels configured. Set TARGET_CHANNELS environment variable.
+2025-09-13 16:46:10 UTC | INFO     | handlers.events | 📝 [Events] Chat member update: chat_id=-1002823150092, chat_type=channel, user_id=7063310576, old_status=member, new_status=left
+2025-09-13 16:46:10 UTC | INFO     | db.db | Journal event inserted: unsubscribe for tg_user_id=7063310576, journal_id=3
+2025-09-13 16:46:10 UTC | INFO     | handlers.events | ✅ [Events] Recorded unsubscribe event: chat_id=-1002823150092, user_id=7063310576
+2025-09-13 16:46:12 UTC | INFO     | handlers.ui | UI Start command from user 7063310576 (@creativestudiokz)
+2025-09-13 16:46:30 UTC | INFO     | handlers.events | 📝 [Events] Chat member update: chat_id=-1002823150092, chat_type=channel, user_id=7063310576, old_status=left, new_status=member
+2025-09-13 16:46:30 UTC | INFO     | db.db | Journal event inserted: subscribe for tg_user_id=7063310576, journal_id=4
+2025-09-13 16:46:30 UTC | INFO     | handlers.events | ✅ [Events] Recorded subscribe event: chat_id=-1002823150092, user_id=7063310576
+2025-09-13 16:46:47 UTC | INFO     | reports | Report started: full_export for all_data
+2025-09-13 16:46:47 UTC | INFO     | reports | Report completed: full_export for all_data, journal_records=4, retention_records=0, excel_file=reports_output/full_database_export_20250913_214647.xlsx
+2025-09-13 16:46:47 UTC | INFO     | reports.report_manager | Full database export completed: reports_output/full_database_export_20250913_214647.xlsx
+2025-09-13 16:51:56 UTC | WARNING  | aiogram.dispatcher | Received SIGTERM signal
+2025-09-13 16:51:56 UTC | INFO     | __main__ | 🛑 Starting graceful shutdown...
+2025-09-13 16:51:56 UTC | INFO     | reports.scheduler | 🛑 [Scheduler] Stopped
+2025-09-13 16:51:56 UTC | INFO     | __main__ | ⏰ Scheduler stopped
+2025-09-13 16:51:56 UTC | INFO     | __main__ | 🤖 Bot session closed
+2025-09-13 16:51:56 UTC | INFO     | __main__ | ✅ Graceful shutdown completed
+2025-09-13 16:51:56 UTC | INFO     | apscheduler.scheduler | Scheduler has been shut down
+2025-09-13 16:51:59 UTC | INFO     | __main__ | 🚀 Starting Telegram Bot...
+2025-09-13 16:51:59 UTC | INFO     | __main__ | 📅 Start time: 2025-09-13 21:51:59.828400+05:00
+2025-09-13 16:51:59 UTC | INFO     | __main__ | 🤖 Bot created with token: 83143487...
+2025-09-13 16:51:59 UTC | INFO     | __main__ | 📡 Dispatcher configured with routers
+2025-09-13 16:51:59 UTC | INFO     | db.db | Added username column to inviters table
+2025-09-13 16:51:59 UTC | INFO     | db.db | Database initialized successfully
+2025-09-13 16:51:59 UTC | INFO     | db.db | Database initialized: data/bot.sqlite3
+2025-09-13 16:51:59 UTC | INFO     | __main__ | 💾 Database initialized successfully
+2025-09-13 16:51:59 UTC | WARNING  | utils.adapter | TARGET_CHANNELS not configured - cannot create channel invites
+2025-09-13 16:51:59 UTC | INFO     | reports.report_manager | ReportManager initialized with reports directory: reports_output
+2025-09-13 16:51:59 UTC | INFO     | utils.adapter | ✅ All adapters initialized successfully
+2025-09-13 16:51:59 UTC | INFO     | handlers.commands | ✅ [Commands] Initialized 2 administrators: [272015356, 430284648]
+2025-09-13 16:51:59 UTC | INFO     | reports.report_manager | ReportManager initialized with reports directory: reports_output
+2025-09-13 16:51:59 UTC | INFO     | reports.unified_excel_template | UnifiedExcelTemplate initialized: reports_output/subscribers_report.xlsx
+2025-09-13 16:51:59 UTC | INFO     | reports.unified_report_manager | UnifiedReportManager initialized with reports directory: reports_output
+2025-09-13 16:51:59 UTC | INFO     | reports.scheduler | 🕒 [Scheduler] Initialized with default config
+2025-09-13 16:51:59 UTC | INFO     | handlers.commands | 🕒 [Commands] ReportScheduler initialized successfully
+2025-09-13 16:51:59 UTC | INFO     | reports.scheduler | 🔧 [Scheduler] Configuration updated: time=09:00:00, chats=1, enabled=True
+2025-09-13 16:51:59 UTC | INFO     | apscheduler.scheduler | Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2025-09-13 16:51:59 UTC | INFO     | reports.scheduler | 📅 [Scheduler] Daily reports scheduled for 09:00:00
+2025-09-13 16:51:59 UTC | INFO     | apscheduler.scheduler | Added job "ReportScheduler._send_daily_reports" to job store "default"
+2025-09-13 16:51:59 UTC | INFO     | apscheduler.scheduler | Scheduler started
+2025-09-13 16:51:59 UTC | INFO     | reports.scheduler | 🚀 [Scheduler] Started with 1 target chats
+2025-09-13 16:51:59 UTC | INFO     | __main__ | ⏰ Scheduler started: 09:00:00, 1 chats
+2025-09-13 16:51:59 UTC | INFO     | __main__ | 🚀 All components initialized successfully
+2025-09-13 16:52:00 UTC | INFO     | __main__ | 🤖 Bot started: @statistickzbot (Statistic_bot)
+2025-09-13 16:52:00 UTC | INFO     | __main__ | 🔄 Starting bot in polling mode...
+2025-09-13 16:53:42 UTC | WARNING  | aiogram.dispatcher | Received SIGTERM signal
+2025-09-13 16:53:42 UTC | INFO     | __main__ | 🛑 Starting graceful shutdown...
+2025-09-13 16:53:42 UTC | INFO     | reports.scheduler | 🛑 [Scheduler] Stopped
+2025-09-13 16:53:42 UTC | INFO     | __main__ | ⏰ Scheduler stopped
+2025-09-13 16:53:42 UTC | INFO     | __main__ | 🤖 Bot session closed
+2025-09-13 16:53:42 UTC | INFO     | __main__ | ✅ Graceful shutdown completed
+2025-09-13 16:53:42 UTC | INFO     | apscheduler.scheduler | Scheduler has been shut down
+2025-09-13 16:53:46 UTC | INFO     | __main__ | 🚀 Starting Telegram Bot...
+2025-09-13 16:53:46 UTC | INFO     | __main__ | 📅 Start time: 2025-09-13 21:53:46.641582+05:00
+2025-09-13 16:53:46 UTC | INFO     | __main__ | 🤖 Bot created with token: 83143487...
+2025-09-13 16:53:46 UTC | INFO     | __main__ | 📡 Dispatcher configured with routers
+2025-09-13 16:53:46 UTC | INFO     | db.db | Database initialized successfully
+2025-09-13 16:53:46 UTC | INFO     | db.db | Database initialized: data/bot.sqlite3
+2025-09-13 16:53:46 UTC | INFO     | __main__ | 💾 Database initialized successfully
+2025-09-13 16:53:46 UTC | WARNING  | utils.adapter | TARGET_CHANNELS not configured - cannot create channel invites
+2025-09-13 16:53:46 UTC | INFO     | reports.report_manager | ReportManager initialized with reports directory: reports_output
+2025-09-13 16:53:46 UTC | INFO     | utils.adapter | ✅ All adapters initialized successfully
+2025-09-13 16:53:46 UTC | INFO     | handlers.commands | ✅ [Commands] Initialized 2 administrators: [272015356, 430284648]
+2025-09-13 16:53:46 UTC | INFO     | reports.report_manager | ReportManager initialized with reports directory: reports_output
+2025-09-13 16:53:46 UTC | INFO     | reports.unified_excel_template | UnifiedExcelTemplate initialized: reports_output/subscribers_report.xlsx
+2025-09-13 16:53:46 UTC | INFO     | reports.unified_report_manager | UnifiedReportManager initialized with reports directory: reports_output
+2025-09-13 16:53:46 UTC | INFO     | reports.scheduler | 🕒 [Scheduler] Initialized with default config
+2025-09-13 16:53:46 UTC | INFO     | handlers.commands | 🕒 [Commands] ReportScheduler initialized successfully
+2025-09-13 16:53:46 UTC | INFO     | reports.scheduler | 🔧 [Scheduler] Configuration updated: time=09:00:00, chats=1, enabled=True
+2025-09-13 16:53:46 UTC | INFO     | apscheduler.scheduler | Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2025-09-13 16:53:46 UTC | INFO     | reports.scheduler | 📅 [Scheduler] Daily reports scheduled for 09:00:00
+2025-09-13 16:53:46 UTC | INFO     | apscheduler.scheduler | Added job "ReportScheduler._send_daily_reports" to job store "default"
+2025-09-13 16:53:46 UTC | INFO     | apscheduler.scheduler | Scheduler started
+2025-09-13 16:53:46 UTC | INFO     | reports.scheduler | 🚀 [Scheduler] Started with 1 target chats
+2025-09-13 16:53:46 UTC | INFO     | __main__ | ⏰ Scheduler started: 09:00:00, 1 chats
+2025-09-13 16:53:46 UTC | INFO     | __main__ | 🚀 All components initialized successfully
+2025-09-13 16:53:47 UTC | INFO     | __main__ | 🤖 Bot started: @statistickzbot (Statistic_bot)
+2025-09-13 16:53:47 UTC | INFO     | __main__ | 🔄 Starting bot in polling mode...
+2025-09-13 17:00:07 UTC | INFO     | reports | Report started: full_export for all_data
+2025-09-13 17:00:07 UTC | INFO     | reports | Report completed: full_export for all_data, journal_records=4, retention_records=0, excel_file=reports_output/full_database_export_20250913_220007.xlsx
+2025-09-13 17:00:07 UTC | INFO     | reports.report_manager | Full database export completed: reports_output/full_database_export_20250913_220007.xlsx
+2025-09-13 17:04:18 UTC | WARNING  | aiogram.dispatcher | Received SIGTERM signal
+2025-09-13 17:04:18 UTC | INFO     | __main__ | 🛑 Starting graceful shutdown...
+2025-09-13 17:04:18 UTC | INFO     | reports.scheduler | 🛑 [Scheduler] Stopped
+2025-09-13 17:04:18 UTC | INFO     | __main__ | ⏰ Scheduler stopped
+2025-09-13 17:04:18 UTC | INFO     | __main__ | 🤖 Bot session closed
+2025-09-13 17:04:18 UTC | INFO     | __main__ | ✅ Graceful shutdown completed
+2025-09-13 17:04:18 UTC | INFO     | apscheduler.scheduler | Scheduler has been shut down
+2025-09-13 17:04:22 UTC | INFO     | __main__ | 🚀 Starting Telegram Bot...
+2025-09-13 17:04:22 UTC | INFO     | __main__ | 📅 Start time: 2025-09-13 22:04:22.281374+05:00
+2025-09-13 17:04:22 UTC | INFO     | __main__ | 🤖 Bot created with token: 83143487...
+2025-09-13 17:04:22 UTC | INFO     | __main__ | 📡 Dispatcher configured with routers
+2025-09-13 17:04:22 UTC | INFO     | db.db | Database initialized successfully
+2025-09-13 17:04:22 UTC | INFO     | db.db | Database initialized: data/bot.sqlite3
+2025-09-13 17:04:22 UTC | INFO     | __main__ | 💾 Database initialized successfully
+2025-09-13 17:04:22 UTC | WARNING  | utils.adapter | TARGET_CHANNELS not configured - cannot create channel invites
+2025-09-13 17:04:22 UTC | INFO     | reports.report_manager | ReportManager initialized with reports directory: reports_output
+2025-09-13 17:04:22 UTC | INFO     | utils.adapter | ✅ All adapters initialized successfully
+2025-09-13 17:04:22 UTC | INFO     | handlers.commands | ✅ [Commands] Initialized 2 administrators: [272015356, 430284648]
+2025-09-13 17:04:22 UTC | INFO     | reports.report_manager | ReportManager initialized with reports directory: reports_output
+2025-09-13 17:04:22 UTC | INFO     | reports.unified_excel_template | UnifiedExcelTemplate initialized: reports_output/subscribers_report.xlsx
+2025-09-13 17:04:22 UTC | INFO     | reports.unified_report_manager | UnifiedReportManager initialized with reports directory: reports_output
+2025-09-13 17:04:22 UTC | INFO     | reports.scheduler | 🕒 [Scheduler] Initialized with default config
+2025-09-13 17:04:22 UTC | INFO     | handlers.commands | 🕒 [Commands] ReportScheduler initialized successfully
+2025-09-13 17:04:22 UTC | INFO     | reports.scheduler | 🔧 [Scheduler] Configuration updated: time=09:00:00, chats=1, enabled=True
+2025-09-13 17:04:22 UTC | INFO     | apscheduler.scheduler | Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2025-09-13 17:04:22 UTC | INFO     | reports.scheduler | 📅 [Scheduler] Daily reports scheduled for 09:00:00
+2025-09-13 17:04:22 UTC | INFO     | apscheduler.scheduler | Added job "ReportScheduler._send_daily_reports" to job store "default"
+2025-09-13 17:04:22 UTC | INFO     | apscheduler.scheduler | Scheduler started
+2025-09-13 17:04:22 UTC | INFO     | reports.scheduler | 🚀 [Scheduler] Started with 1 target chats
+2025-09-13 17:04:22 UTC | INFO     | __main__ | ⏰ Scheduler started: 09:00:00, 1 chats
+2025-09-13 17:04:22 UTC | INFO     | __main__ | 🚀 All components initialized successfully
+2025-09-13 17:04:22 UTC | INFO     | __main__ | 🤖 Bot started: @statistickzbot (Statistic_bot)
+2025-09-13 17:04:22 UTC | INFO     | __main__ | 🔄 Starting bot in polling mode...
+2025-09-13 17:05:06 UTC | INFO     | reports | Report started: full_export for all_data
+2025-09-13 17:05:06 UTC | INFO     | reports | Report completed: full_export for all_data, journal_records=4, retention_records=0, excel_file=reports_output/full_database_export_20250913_220506.xlsx
+2025-09-13 17:05:06 UTC | INFO     | reports.report_manager | Full database export completed: reports_output/full_database_export_20250913_220506.xlsx
+2025-09-13 17:05:56 UTC | WARNING  | aiogram.dispatcher | Received SIGTERM signal
+2025-09-13 17:05:56 UTC | INFO     | __main__ | 🛑 Starting graceful shutdown...
+2025-09-13 17:05:56 UTC | INFO     | reports.scheduler | 🛑 [Scheduler] Stopped
+2025-09-13 17:05:56 UTC | INFO     | __main__ | ⏰ Scheduler stopped
+2025-09-13 17:05:56 UTC | INFO     | __main__ | 🤖 Bot session closed
+2025-09-13 17:05:56 UTC | INFO     | __main__ | ✅ Graceful shutdown completed
+2025-09-13 17:05:56 UTC | INFO     | apscheduler.scheduler | Scheduler has been shut down
+2025-09-13 17:06:00 UTC | INFO     | __main__ | 🚀 Starting Telegram Bot...
+2025-09-13 17:06:00 UTC | INFO     | __main__ | 📅 Start time: 2025-09-13 22:06:00.065628+05:00
+2025-09-13 17:06:00 UTC | INFO     | __main__ | 🤖 Bot created with token: 83143487...
+2025-09-13 17:06:00 UTC | INFO     | __main__ | 📡 Dispatcher configured with routers
+2025-09-13 17:06:00 UTC | INFO     | db.db | Database initialized successfully
+2025-09-13 17:06:00 UTC | INFO     | db.db | Database initialized: data/bot.sqlite3
+2025-09-13 17:06:00 UTC | INFO     | __main__ | 💾 Database initialized successfully
+2025-09-13 17:06:00 UTC | WARNING  | utils.adapter | TARGET_CHANNELS not configured - cannot create channel invites
+2025-09-13 17:06:00 UTC | INFO     | reports.report_manager | ReportManager initialized with reports directory: reports_output
+2025-09-13 17:06:00 UTC | INFO     | utils.adapter | ✅ All adapters initialized successfully
+2025-09-13 17:06:00 UTC | INFO     | handlers.commands | ✅ [Commands] Initialized 2 administrators: [272015356, 430284648]
+2025-09-13 17:06:00 UTC | INFO     | reports.report_manager | ReportManager initialized with reports directory: reports_output
+2025-09-13 17:06:00 UTC | INFO     | reports.unified_excel_template | Creating new subscribers_report.xlsx with base sheets
+2025-09-13 17:06:00 UTC | INFO     | reports.unified_excel_template | ✅ Created subscribers_report.xlsx with История and Статистика sheets
+2025-09-13 17:06:00 UTC | INFO     | reports.unified_excel_template | UnifiedExcelTemplate initialized: reports_output/subscribers_report.xlsx
+2025-09-13 17:06:00 UTC | INFO     | reports.unified_report_manager | UnifiedReportManager initialized with reports directory: reports_output
+2025-09-13 17:06:00 UTC | INFO     | reports.scheduler | 🕒 [Scheduler] Initialized with default config
+2025-09-13 17:06:00 UTC | INFO     | handlers.commands | 🕒 [Commands] ReportScheduler initialized successfully
+2025-09-13 17:06:00 UTC | INFO     | reports.scheduler | 🔧 [Scheduler] Configuration updated: time=09:00:00, chats=1, enabled=True
+2025-09-13 17:06:00 UTC | INFO     | apscheduler.scheduler | Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2025-09-13 17:06:00 UTC | INFO     | reports.scheduler | 📅 [Scheduler] Daily reports scheduled for 09:00:00
+2025-09-13 17:06:00 UTC | INFO     | apscheduler.scheduler | Added job "ReportScheduler._send_daily_reports" to job store "default"
+2025-09-13 17:06:00 UTC | INFO     | apscheduler.scheduler | Scheduler started
+2025-09-13 17:06:00 UTC | INFO     | reports.scheduler | 🚀 [Scheduler] Started with 1 target chats
+2025-09-13 17:06:00 UTC | INFO     | __main__ | ⏰ Scheduler started: 09:00:00, 1 chats
+2025-09-13 17:06:00 UTC | INFO     | __main__ | 🚀 All components initialized successfully
+2025-09-13 17:06:00 UTC | INFO     | __main__ | 🤖 Bot started: @statistickzbot (Statistic_bot)
+2025-09-13 17:06:00 UTC | INFO     | __main__ | 🔄 Starting bot in polling mode...
+2025-09-13 17:07:55 UTC | INFO     | reports | Report started: full_export for all_data
+2025-09-13 17:07:55 UTC | INFO     | reports | Report completed: full_export for all_data, journal_records=4, retention_records=0, excel_file=reports_output/full_database_export_20250913_220755.xlsx
+2025-09-13 17:07:55 UTC | INFO     | reports.report_manager | Full database export completed: reports_output/full_database_export_20250913_220755.xlsx
+2025-09-13 17:09:43 UTC | INFO     | handlers.events | 📝 [Events] Chat member update: chat_id=-1002823150092, chat_type=channel, user_id=7063310576, old_status=member, new_status=left
+2025-09-13 17:09:43 UTC | INFO     | db.db | Journal event inserted: unsubscribe for tg_user_id=7063310576, journal_id=5
+2025-09-13 17:09:43 UTC | INFO     | handlers.events | ✅ [Events] Recorded unsubscribe event: chat_id=-1002823150092, user_id=7063310576
+2025-09-13 17:09:49 UTC | INFO     | handlers.ui | UI Start command from user 272015356 (@aibekbereketuly)
+2025-09-13 17:09:53 UTC | ERROR    | utils.adapter | Failed to create channel invite for aibekbereketuly: No target channels configured. Set TARGET_CHANNELS environment variable.
+Traceback (most recent call last):
+  File "/home/runner/workspace/bot_project/utils/adapter.py", line 47, in create_invite_for
+    raise ValueError("No target channels configured. Set TARGET_CHANNELS environment variable.")
+ValueError: No target channels configured. Set TARGET_CHANNELS environment variable.
+2025-09-13 17:09:53 UTC | ERROR    | handlers.ui | Error creating invite for existing inviter: No target channels configured. Set TARGET_CHANNELS environment variable.
+Traceback (most recent call last):
+  File "/home/runner/workspace/bot_project/handlers/ui.py", line 206, in handle_existing_inviter
+    invite_link = await create_invite_for(inviter_name, bot)
+                  ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/bot_project/utils/adapter.py", line 566, in create_invite_for
+    return await manager.create_invite_for(name)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/bot_project/utils/adapter.py", line 47, in create_invite_for
+    raise ValueError("No target channels configured. Set TARGET_CHANNELS environment variable.")
+ValueError: No target channels configured. Set TARGET_CHANNELS environment variable.
+2025-09-13 17:10:40 UTC | ERROR    | utils.adapter | Failed to create channel invite for aibekbereketuly: No target channels configured. Set TARGET_CHANNELS environment variable.
+Traceback (most recent call last):
+  File "/home/runner/workspace/bot_project/utils/adapter.py", line 47, in create_invite_for
+    raise ValueError("No target channels configured. Set TARGET_CHANNELS environment variable.")
+ValueError: No target channels configured. Set TARGET_CHANNELS environment variable.
+2025-09-13 17:10:40 UTC | ERROR    | handlers.ui | Error creating invite for existing inviter: No target channels configured. Set TARGET_CHANNELS environment variable.
+Traceback (most recent call last):
+  File "/home/runner/workspace/bot_project/handlers/ui.py", line 206, in handle_existing_inviter
+    invite_link = await create_invite_for(inviter_name, bot)
+                  ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/bot_project/utils/adapter.py", line 566, in create_invite_for
+    return await manager.create_invite_for(name)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/bot_project/utils/adapter.py", line 47, in create_invite_for
+    raise ValueError("No target channels configured. Set TARGET_CHANNELS environment variable.")
+ValueError: No target channels configured. Set TARGET_CHANNELS environment variable.
+2025-09-13 17:14:14 UTC | WARNING  | aiogram.dispatcher | Received SIGTERM signal
+2025-09-13 17:14:14 UTC | INFO     | __main__ | 🛑 Starting graceful shutdown...
+2025-09-13 17:14:14 UTC | INFO     | reports.scheduler | 🛑 [Scheduler] Stopped
+2025-09-13 17:14:14 UTC | INFO     | __main__ | ⏰ Scheduler stopped
+2025-09-13 17:14:14 UTC | INFO     | __main__ | 🤖 Bot session closed
+2025-09-13 17:14:14 UTC | INFO     | __main__ | ✅ Graceful shutdown completed
+2025-09-13 17:14:14 UTC | INFO     | apscheduler.scheduler | Scheduler has been shut down
+2025-09-13 17:14:20 UTC | INFO     | __main__ | 🚀 Starting Telegram Bot...
+2025-09-13 17:14:20 UTC | INFO     | __main__ | 📅 Start time: 2025-09-13 22:14:20.810274+05:00
+2025-09-13 17:14:20 UTC | INFO     | __main__ | 🤖 Bot created with token: 83143487...
+2025-09-13 17:14:20 UTC | INFO     | __main__ | 📡 Dispatcher configured with routers
+2025-09-13 17:14:20 UTC | INFO     | db.db | Database initialized successfully
+2025-09-13 17:14:20 UTC | INFO     | db.db | Database initialized: data/bot.sqlite3
+2025-09-13 17:14:20 UTC | INFO     | __main__ | 💾 Database initialized successfully
+2025-09-13 17:14:20 UTC | INFO     | utils.adapter | Configured target channels: ['-1002823150092']
+2025-09-13 17:14:20 UTC | INFO     | reports.report_manager | ReportManager initialized with reports directory: reports_output
+2025-09-13 17:14:20 UTC | INFO     | utils.adapter | ✅ All adapters initialized successfully
+2025-09-13 17:14:20 UTC | INFO     | handlers.commands | ✅ [Commands] Initialized 2 administrators: [272015356, 430284648]
+2025-09-13 17:14:20 UTC | INFO     | reports.report_manager | ReportManager initialized with reports directory: reports_output
+2025-09-13 17:14:20 UTC | INFO     | reports.unified_excel_template | UnifiedExcelTemplate initialized: reports_output/subscribers_report.xlsx
+2025-09-13 17:14:20 UTC | INFO     | reports.unified_report_manager | UnifiedReportManager initialized with reports directory: reports_output
+2025-09-13 17:14:20 UTC | INFO     | reports.scheduler | 🕒 [Scheduler] Initialized with default config
+2025-09-13 17:14:20 UTC | INFO     | handlers.commands | 🕒 [Commands] ReportScheduler initialized successfully
+2025-09-13 17:14:20 UTC | INFO     | reports.scheduler | 🔧 [Scheduler] Configuration updated: time=09:00:00, chats=1, enabled=True
+2025-09-13 17:14:20 UTC | INFO     | apscheduler.scheduler | Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2025-09-13 17:14:20 UTC | INFO     | reports.scheduler | 📅 [Scheduler] Daily reports scheduled for 09:00:00
+2025-09-13 17:14:20 UTC | INFO     | apscheduler.scheduler | Added job "ReportScheduler._send_daily_reports" to job store "default"
+2025-09-13 17:14:20 UTC | INFO     | apscheduler.scheduler | Scheduler started
+2025-09-13 17:14:20 UTC | INFO     | reports.scheduler | 🚀 [Scheduler] Started with 1 target chats
+2025-09-13 17:14:20 UTC | INFO     | __main__ | ⏰ Scheduler started: 09:00:00, 1 chats
+2025-09-13 17:14:20 UTC | INFO     | __main__ | 🚀 All components initialized successfully
+2025-09-13 17:14:21 UTC | INFO     | __main__ | 🤖 Bot started: @statistickzbot (Statistic_bot)
+2025-09-13 17:14:21 UTC | INFO     | __main__ | 🔄 Starting bot in polling mode...
+2025-09-13 17:16:05 UTC | WARNING  | aiogram.dispatcher | Received SIGTERM signal
+2025-09-13 17:16:05 UTC | INFO     | __main__ | 🛑 Starting graceful shutdown...
+2025-09-13 17:16:05 UTC | INFO     | reports.scheduler | 🛑 [Scheduler] Stopped
+2025-09-13 17:16:05 UTC | INFO     | __main__ | ⏰ Scheduler stopped
+2025-09-13 17:16:05 UTC | INFO     | __main__ | 🤖 Bot session closed
+2025-09-13 17:16:05 UTC | INFO     | __main__ | ✅ Graceful shutdown completed
+2025-09-13 17:16:05 UTC | INFO     | apscheduler.scheduler | Scheduler has been shut down
+2025-09-13 17:16:09 UTC | INFO     | __main__ | 🚀 Starting Telegram Bot...
+2025-09-13 17:16:09 UTC | INFO     | __main__ | 📅 Start time: 2025-09-13 22:16:09.096688+05:00
+2025-09-13 17:16:09 UTC | INFO     | __main__ | 🤖 Bot created with token: 83143487...
+2025-09-13 17:16:09 UTC | INFO     | __main__ | 📡 Dispatcher configured with routers
+2025-09-13 17:16:09 UTC | INFO     | db.db | Database initialized successfully
+2025-09-13 17:16:09 UTC | INFO     | db.db | Database initialized: data/bot.sqlite3
+2025-09-13 17:16:09 UTC | INFO     | __main__ | 💾 Database initialized successfully
+2025-09-13 17:16:09 UTC | INFO     | utils.adapter | Configured target channels: ['-1002823150092']
+2025-09-13 17:16:09 UTC | INFO     | reports.report_manager | ReportManager initialized with reports directory: reports_output
+2025-09-13 17:16:09 UTC | INFO     | utils.adapter | ✅ All adapters initialized successfully
+2025-09-13 17:16:09 UTC | INFO     | handlers.commands | ✅ [Commands] Initialized 2 administrators: [272015356, 430284648]
+2025-09-13 17:16:09 UTC | INFO     | reports.report_manager | ReportManager initialized with reports directory: reports_output
+2025-09-13 17:16:09 UTC | INFO     | reports.unified_excel_template | UnifiedExcelTemplate initialized: reports_output/subscribers_report.xlsx
+2025-09-13 17:16:09 UTC | INFO     | reports.unified_report_manager | UnifiedReportManager initialized with reports directory: reports_output
+2025-09-13 17:16:09 UTC | INFO     | reports.scheduler | 🕒 [Scheduler] Initialized with default config
+2025-09-13 17:16:09 UTC | INFO     | handlers.commands | 🕒 [Commands] ReportScheduler initialized successfully
+2025-09-13 17:16:09 UTC | INFO     | reports.scheduler | 🔧 [Scheduler] Configuration updated: time=09:00:00, chats=1, enabled=True
+2025-09-13 17:16:09 UTC | INFO     | apscheduler.scheduler | Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2025-09-13 17:16:09 UTC | INFO     | reports.scheduler | 📅 [Scheduler] Daily reports scheduled for 09:00:00
+2025-09-13 17:16:09 UTC | INFO     | apscheduler.scheduler | Added job "ReportScheduler._send_daily_reports" to job store "default"
+2025-09-13 17:16:09 UTC | INFO     | apscheduler.scheduler | Scheduler started
+2025-09-13 17:16:09 UTC | INFO     | reports.scheduler | 🚀 [Scheduler] Started with 1 target chats
+2025-09-13 17:16:09 UTC | INFO     | __main__ | ⏰ Scheduler started: 09:00:00, 1 chats
+2025-09-13 17:16:09 UTC | INFO     | __main__ | 🚀 All components initialized successfully
+2025-09-13 17:16:09 UTC | INFO     | __main__ | 🤖 Bot started: @statistickzbot (Statistic_bot)
+2025-09-13 17:16:09 UTC | INFO     | __main__ | 🔄 Starting bot in polling mode...
+2025-09-13 17:17:26 UTC | INFO     | utils.adapter | Updated existing invite for aibekbereketuly
+2025-09-13 17:17:26 UTC | INFO     | utils.adapter | Created channel invite for aibekbereketuly: https://t.me/+ebCBK1zYj5xiMmEy
+2025-09-13 17:17:27 UTC | INFO     | handlers.ui | Created invite link for aibekbereketuly by admin 272015356
+2025-09-13 17:17:43 UTC | INFO     | handlers.events | 📝 [Events] Chat member update: chat_id=-1002823150092, chat_type=channel, user_id=7063310576, old_status=left, new_status=member
+2025-09-13 17:17:43 UTC | INFO     | db.db | Journal event inserted: subscribe for tg_user_id=7063310576, journal_id=6
+2025-09-13 17:17:43 UTC | INFO     | handlers.events | ✅ [Events] Recorded subscribe event: chat_id=-1002823150092, user_id=7063310576
+2025-09-13 17:17:56 UTC | ERROR    | handlers.ui | Error listing invites: Telegram server says - Bad Request: message is not modified: specified new message content and reply markup are exactly the same as a current content and reply markup of the message
+Traceback (most recent call last):
+  File "/home/runner/workspace/bot_project/handlers/ui.py", line 335, in handle_list_invites
+    await callback.message.edit_text(text, reply_markup=keyboard, parse_mode="Markdown")
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/aiogram/methods/base.py", line 84, in emit
+    return await bot(self)
+           ^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/aiogram/client/bot.py", line 488, in __call__
+    return await self.session(self, method, timeout=request_timeout)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/aiogram/client/session/base.py", line 254, in __call__
+    return cast(TelegramType, await middleware(bot, method))
+                              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/aiogram/client/session/aiohttp.py", line 189, in make_request
+    response = self.check_response(
+               ^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/workspace/.pythonlibs/lib/python3.11/site-packages/aiogram/client/session/base.py", line 120, in check_response
+    raise TelegramBadRequest(method=method, message=description)
+aiogram.exceptions.TelegramBadRequest: Telegram server says - Bad Request: message is not modified: specified new message content and reply markup are exactly the same as a current content and reply markup of the message
+2025-09-13 17:18:05 UTC | INFO     | reports | Report started: full_export for all_data
+2025-09-13 17:18:05 UTC | INFO     | reports | Report completed: full_export for all_data, journal_records=6, retention_records=0, excel_file=reports_output/full_database_export_20250913_221805.xlsx
+2025-09-13 17:18:05 UTC | INFO     | reports.report_manager | Full database export completed: reports_output/full_database_export_20250913_221805.xlsx
+2025-09-13 17:18:55 UTC | INFO     | handlers.ui | UI Start command from user 272015356 (@aibekbereketuly)
+2025-09-13 17:19:01 UTC | INFO     | utils.adapter | Updated existing invite for aibekbereketuly
+2025-09-13 17:19:01 UTC | INFO     | utils.adapter | Created channel invite for aibekbereketuly: https://t.me/+XWsdHgtG2FQ0ZjFi
+2025-09-13 17:19:01 UTC | INFO     | handlers.ui | Created invite link for aibekbereketuly by admin 272015356
+2025-09-13 17:21:14 UTC | WARNING  | aiogram.dispatcher | Received SIGTERM signal
+2025-09-13 17:21:14 UTC | INFO     | __main__ | 🛑 Starting graceful shutdown...
+2025-09-13 17:21:14 UTC | INFO     | reports.scheduler | 🛑 [Scheduler] Stopped
+2025-09-13 17:21:14 UTC | INFO     | __main__ | ⏰ Scheduler stopped
+2025-09-13 17:21:14 UTC | INFO     | __main__ | 🤖 Bot session closed
+2025-09-13 17:21:14 UTC | INFO     | __main__ | ✅ Graceful shutdown completed
+2025-09-13 17:21:14 UTC | INFO     | apscheduler.scheduler | Scheduler has been shut down
+2025-09-13 17:21:18 UTC | INFO     | __main__ | 🚀 Starting Telegram Bot...
+2025-09-13 17:21:18 UTC | INFO     | __main__ | 📅 Start time: 2025-09-13 22:21:18.255069+05:00
+2025-09-13 17:21:18 UTC | INFO     | __main__ | 🤖 Bot created with token: 83143487...
+2025-09-13 17:21:18 UTC | INFO     | __main__ | 📡 Dispatcher configured with routers
+2025-09-13 17:21:18 UTC | INFO     | db.db | Database initialized successfully
+2025-09-13 17:21:18 UTC | INFO     | db.db | Database initialized: data/bot.sqlite3
+2025-09-13 17:21:18 UTC | INFO     | __main__ | 💾 Database initialized successfully
+2025-09-13 17:21:18 UTC | INFO     | utils.adapter | Configured target channels: ['-1002823150092']
+2025-09-13 17:21:18 UTC | INFO     | reports.report_manager | ReportManager initialized with reports directory: reports_output
+2025-09-13 17:21:18 UTC | INFO     | utils.adapter | ✅ All adapters initialized successfully
+2025-09-13 17:21:18 UTC | INFO     | handlers.commands | ✅ [Commands] Initialized 2 administrators: [272015356, 430284648]
+2025-09-13 17:21:18 UTC | INFO     | reports.report_manager | ReportManager initialized with reports directory: reports_output
+2025-09-13 17:21:18 UTC | INFO     | reports.unified_excel_template | UnifiedExcelTemplate initialized: reports_output/subscribers_report.xlsx
+2025-09-13 17:21:18 UTC | INFO     | reports.unified_report_manager | UnifiedReportManager initialized with reports directory: reports_output
+2025-09-13 17:21:18 UTC | INFO     | reports.scheduler | 🕒 [Scheduler] Initialized with default config
+2025-09-13 17:21:18 UTC | INFO     | handlers.commands | 🕒 [Commands] ReportScheduler initialized successfully
+2025-09-13 17:21:18 UTC | INFO     | reports.scheduler | 🔧 [Scheduler] Configuration updated: time=09:00:00, chats=1, enabled=True
+2025-09-13 17:21:18 UTC | INFO     | apscheduler.scheduler | Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2025-09-13 17:21:18 UTC | INFO     | reports.scheduler | 📅 [Scheduler] Daily reports scheduled for 09:00:00
+2025-09-13 17:21:18 UTC | INFO     | apscheduler.scheduler | Added job "ReportScheduler._send_daily_reports" to job store "default"
+2025-09-13 17:21:18 UTC | INFO     | apscheduler.scheduler | Scheduler started
+2025-09-13 17:21:18 UTC | INFO     | reports.scheduler | 🚀 [Scheduler] Started with 1 target chats
+2025-09-13 17:21:18 UTC | INFO     | __main__ | ⏰ Scheduler started: 09:00:00, 1 chats
+2025-09-13 17:21:18 UTC | INFO     | __main__ | 🚀 All components initialized successfully
+2025-09-13 17:21:18 UTC | INFO     | __main__ | 🤖 Bot started: @statistickzbot (Statistic_bot)
+2025-09-13 17:21:18 UTC | INFO     | __main__ | 🔄 Starting bot in polling mode...
+2025-09-13 17:22:18 UTC | INFO     | handlers.ui | UI Start command from user 272015356 (@aibekbereketuly)
+2025-09-13 17:22:22 UTC | INFO     | utils.adapter | Updated existing invite for aibekbereketuly
+2025-09-13 17:22:22 UTC | INFO     | utils.adapter | Created channel invite for aibekbereketuly: https://t.me/+RV37OLelB25kNjgy
+2025-09-13 17:22:22 UTC | INFO     | handlers.ui | Created invite link for aibekbereketuly by admin 272015356
+2025-09-13 17:22:31 UTC | INFO     | utils.adapter | Deleted invite 2
+2025-09-13 17:22:31 UTC | INFO     | handlers.ui | Admin 272015356 deleted invite 2 for aibekbereketuly
+2025-09-13 17:22:38 UTC | INFO     | utils.adapter | Deleted invite 1
+2025-09-13 17:22:39 UTC | INFO     | handlers.ui | Admin 272015356 deleted invite 1 for aibekbereketuly
+2025-09-13 17:22:53 UTC | INFO     | utils.adapter | Created channel invite for aibekbereketuly: https://t.me/+txHabH2zTa00MjAy
+2025-09-13 17:22:53 UTC | INFO     | handlers.ui | Created new inviter aibekbereketuly by admin 272015356
+2025-09-13 17:23:31 UTC | INFO     | handlers.events | 📝 [Events] Chat member update: chat_id=-1002823150092, chat_type=channel, user_id=7063310576, old_status=member, new_status=left
+2025-09-13 17:23:31 UTC | INFO     | db.db | Journal event inserted: unsubscribe for tg_user_id=7063310576, journal_id=7
+2025-09-13 17:23:31 UTC | INFO     | handlers.events | ✅ [Events] Recorded unsubscribe event: chat_id=-1002823150092, user_id=7063310576
+2025-09-13 17:23:34 UTC | INFO     | handlers.events | 📝 [Events] Chat member update: chat_id=-1002823150092, chat_type=channel, user_id=7063310576, old_status=left, new_status=member
+2025-09-13 17:23:34 UTC | INFO     | db.db | Journal event inserted: subscribe for tg_user_id=7063310576, journal_id=8
+2025-09-13 17:23:34 UTC | INFO     | handlers.events | ✅ [Events] Recorded subscribe event: chat_id=-1002823150092, user_id=7063310576
+2025-09-13 17:23:47 UTC | INFO     | reports | Report started: full_export for all_data
+2025-09-13 17:23:47 UTC | INFO     | reports | Report completed: full_export for all_data, journal_records=8, retention_records=0, excel_file=reports_output/full_database_export_20250913_222347.xlsx
+2025-09-13 17:23:47 UTC | INFO     | reports.report_manager | Full database export completed: reports_output/full_database_export_20250913_222347.xlsx
+2025-09-13 17:24:29 UTC | INFO     | reports | Report started: full_export for all_data
+2025-09-13 17:24:29 UTC | INFO     | reports | Report completed: full_export for all_data, journal_records=8, retention_records=0, excel_file=reports_output/full_database_export_20250913_222429.xlsx
+2025-09-13 17:24:29 UTC | INFO     | reports.report_manager | Full database export completed: reports_output/full_database_export_20250913_222429.xlsx
+2025-09-13 17:33:48 UTC | WARNING  | aiogram.dispatcher | Received SIGTERM signal
+2025-09-13 17:33:48 UTC | INFO     | __main__ | 🛑 Starting graceful shutdown...
+2025-09-13 17:33:48 UTC | INFO     | reports.scheduler | 🛑 [Scheduler] Stopped
+2025-09-13 17:33:48 UTC | INFO     | __main__ | ⏰ Scheduler stopped
+2025-09-13 17:33:48 UTC | INFO     | __main__ | 🤖 Bot session closed
+2025-09-13 17:33:48 UTC | INFO     | __main__ | ✅ Graceful shutdown completed
+2025-09-13 17:33:48 UTC | INFO     | apscheduler.scheduler | Scheduler has been shut down
+2025-09-13 17:33:52 UTC | INFO     | __main__ | 🚀 Starting Telegram Bot...
+2025-09-13 17:33:52 UTC | INFO     | __main__ | 📅 Start time: 2025-09-13 22:33:52.444304+05:00
+2025-09-13 17:33:52 UTC | INFO     | __main__ | 🤖 Bot created with token: 83143487...
+2025-09-13 17:33:52 UTC | INFO     | __main__ | 📡 Dispatcher configured with routers
+2025-09-13 17:33:52 UTC | INFO     | db.db | Database initialized successfully
+2025-09-13 17:33:52 UTC | INFO     | db.db | Database initialized: data/bot.sqlite3
+2025-09-13 17:33:52 UTC | INFO     | __main__ | 💾 Database initialized successfully
+2025-09-13 17:33:52 UTC | INFO     | utils.adapter | Configured target channels: ['-1002823150092']
+2025-09-13 17:33:52 UTC | INFO     | reports.report_manager | ReportManager initialized with reports directory: reports_output
+2025-09-13 17:33:52 UTC | INFO     | reports.subscribers_database_manager | Creating new subscribers_database.xlsx with base sheets
+2025-09-13 17:33:52 UTC | INFO     | reports.subscribers_database_manager | ✅ Created subscribers_database.xlsx with История and Статистика sheets
+2025-09-13 17:33:52 UTC | INFO     | reports.subscribers_database_manager | SubscribersDatabaseManager initialized: reports_output/subscribers_database.xlsx
+2025-09-13 17:33:52 UTC | INFO     | utils.adapter | ✅ All adapters initialized successfully
+2025-09-13 17:33:52 UTC | INFO     | handlers.commands | ✅ [Commands] Initialized 2 administrators: [272015356, 430284648]
+2025-09-13 17:33:52 UTC | INFO     | reports.report_manager | ReportManager initialized with reports directory: reports_output
+2025-09-13 17:33:52 UTC | INFO     | reports.unified_excel_template | UnifiedExcelTemplate initialized: reports_output/subscribers_report.xlsx
+2025-09-13 17:33:52 UTC | INFO     | reports.unified_report_manager | UnifiedReportManager initialized with reports directory: reports_output
+2025-09-13 17:33:52 UTC | INFO     | reports.scheduler | 🕒 [Scheduler] Initialized with default config
+2025-09-13 17:33:52 UTC | INFO     | handlers.commands | 🕒 [Commands] ReportScheduler initialized successfully
+2025-09-13 17:33:52 UTC | INFO     | reports.scheduler | 🔧 [Scheduler] Configuration updated: time=09:00:00, chats=1, enabled=True
+2025-09-13 17:33:52 UTC | INFO     | apscheduler.scheduler | Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2025-09-13 17:33:52 UTC | INFO     | reports.scheduler | 📅 [Scheduler] Daily reports scheduled for 09:00:00
+2025-09-13 17:33:52 UTC | INFO     | apscheduler.scheduler | Added job "ReportScheduler._send_daily_reports" to job store "default"
+2025-09-13 17:33:52 UTC | INFO     | apscheduler.scheduler | Scheduler started
+2025-09-13 17:33:52 UTC | INFO     | reports.scheduler | 🚀 [Scheduler] Started with 1 target chats
+2025-09-13 17:33:52 UTC | INFO     | __main__ | ⏰ Scheduler started: 09:00:00, 1 chats
+2025-09-13 17:33:52 UTC | INFO     | __main__ | 🚀 All components initialized successfully
+2025-09-13 17:33:52 UTC | INFO     | __main__ | 🤖 Bot started: @statistickzbot (Statistic_bot)
+2025-09-13 17:33:52 UTC | INFO     | __main__ | 🔄 Starting bot in polling mode...
+2025-09-13 17:37:01 UTC | WARNING  | aiogram.dispatcher | Received SIGTERM signal
+2025-09-13 17:37:01 UTC | INFO     | __main__ | 🛑 Starting graceful shutdown...
+2025-09-13 17:37:01 UTC | INFO     | reports.scheduler | 🛑 [Scheduler] Stopped
+2025-09-13 17:37:01 UTC | INFO     | __main__ | ⏰ Scheduler stopped
+2025-09-13 17:37:01 UTC | INFO     | __main__ | 🤖 Bot session closed
+2025-09-13 17:37:01 UTC | INFO     | __main__ | ✅ Graceful shutdown completed
+2025-09-13 17:37:01 UTC | INFO     | apscheduler.scheduler | Scheduler has been shut down
+2025-09-13 17:37:06 UTC | INFO     | __main__ | 🚀 Starting Telegram Bot...
+2025-09-13 17:37:06 UTC | INFO     | __main__ | 📅 Start time: 2025-09-13 22:37:06.036195+05:00
+2025-09-13 17:37:06 UTC | INFO     | __main__ | 🤖 Bot created with token: 83143487...
+2025-09-13 17:37:06 UTC | INFO     | __main__ | 📡 Dispatcher configured with routers
+2025-09-13 17:37:06 UTC | INFO     | db.db | Database initialized successfully
+2025-09-13 17:37:06 UTC | INFO     | db.db | Database initialized: data/bot.sqlite3
+2025-09-13 17:37:06 UTC | INFO     | __main__ | 💾 Database initialized successfully
+2025-09-13 17:37:06 UTC | INFO     | utils.adapter | Configured target channels: ['-1002823150092']
+2025-09-13 17:37:06 UTC | INFO     | reports.report_manager | ReportManager initialized with reports directory: reports_output
+2025-09-13 17:37:06 UTC | INFO     | reports.subscribers_database_manager | SubscribersDatabaseManager initialized: reports_output/subscribers_database.xlsx
+2025-09-13 17:37:06 UTC | INFO     | utils.adapter | ✅ All adapters initialized successfully
+2025-09-13 17:37:06 UTC | INFO     | handlers.commands | ✅ [Commands] Initialized 2 administrators: [272015356, 430284648]
+2025-09-13 17:37:06 UTC | INFO     | reports.report_manager | ReportManager initialized with reports directory: reports_output
+2025-09-13 17:37:06 UTC | INFO     | reports.unified_excel_template | UnifiedExcelTemplate initialized: reports_output/subscribers_report.xlsx
+2025-09-13 17:37:06 UTC | INFO     | reports.unified_report_manager | UnifiedReportManager initialized with reports directory: reports_output
+2025-09-13 17:37:06 UTC | INFO     | reports.scheduler | 🕒 [Scheduler] Initialized with default config
+2025-09-13 17:37:06 UTC | INFO     | handlers.commands | 🕒 [Commands] ReportScheduler initialized successfully
+2025-09-13 17:37:06 UTC | INFO     | reports.scheduler | 🔧 [Scheduler] Configuration updated: time=09:00:00, chats=1, enabled=True
+2025-09-13 17:37:06 UTC | INFO     | apscheduler.scheduler | Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2025-09-13 17:37:06 UTC | INFO     | reports.scheduler | 📅 [Scheduler] Daily reports scheduled for 09:00:00
+2025-09-13 17:37:06 UTC | INFO     | apscheduler.scheduler | Added job "ReportScheduler._send_daily_reports" to job store "default"
+2025-09-13 17:37:06 UTC | INFO     | apscheduler.scheduler | Scheduler started
+2025-09-13 17:37:06 UTC | INFO     | reports.scheduler | 🚀 [Scheduler] Started with 1 target chats
+2025-09-13 17:37:06 UTC | INFO     | __main__ | ⏰ Scheduler started: 09:00:00, 1 chats
+2025-09-13 17:37:06 UTC | INFO     | __main__ | 🚀 All components initialized successfully
+2025-09-13 17:37:06 UTC | INFO     | __main__ | 🤖 Bot started: @statistickzbot (Statistic_bot)
+2025-09-13 17:37:06 UTC | INFO     | __main__ | 🔄 Starting bot in polling mode...
+2025-09-13 17:52:01 UTC | INFO     | reports.subscribers_database_manager | Updated Статистика sheet with current data
+2025-09-13 17:52:01 UTC | INFO     | reports.subscribers_database_manager | ✅ Created daily report sheet 2025-09-13 in subscribers_database.xlsx
+2025-09-13 17:52:01 UTC | INFO     | reports.subscribers_database_manager | Database export completed: reports_output/subscribers_database.xlsx

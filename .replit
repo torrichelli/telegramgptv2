@@ -1,0 +1,62 @@
+modules = ["nodejs-20", "bash", "python-3.11"]
+
+[agent]
+stack = "AGENT_STACK"
+integrations = ["agentstack-trigger-telegram:1.0.0"]
+expertMode = true
+
+[nix]
+channel = "stable-25_05"
+packages = ["glibcLocales", "jq"]
+
+[deployment]
+build = ["npm", "run", "build"]
+run = ["npm", "start"]
+deploymentTarget = "autoscale"
+
+[[ports]]
+localPort = 3000
+externalPort = 3000
+
+[[ports]]
+localPort = 5000
+externalPort = 80
+
+[workflows]
+runButton = "Project"
+
+[[workflows.workflow]]
+name = "Project"
+mode = "parallel"
+author = "agent"
+
+[[workflows.workflow.tasks]]
+task = "workflow.run"
+args = "Mastra Application"
+
+[[workflows.workflow.tasks]]
+task = "workflow.run"
+args = "Telegram Bot"
+
+[[workflows.workflow]]
+name = "Mastra Application"
+author = "agent"
+
+[[workflows.workflow.tasks]]
+task = "shell.exec"
+args = "npm run dev"
+waitForPort = 5000
+
+[workflows.workflow.metadata]
+outputType = "webview"
+
+[[workflows.workflow]]
+name = "Telegram Bot"
+author = "agent"
+
+[[workflows.workflow.tasks]]
+task = "shell.exec"
+args = "cd bot_project && python bot.py"
+
+[workflows.workflow.metadata]
+outputType = "console"
